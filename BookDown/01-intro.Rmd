@@ -1,11 +1,16 @@
-# Hello bookdown 
+# Introduction
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+We are Coded in Cobol. Our proposal is to create a detailed e-guide for newly admitted MBAn students. This guide can help students get familiar with the campus environment and make full use of the resources around them effectively. 
 
-## A section
+In class yesterday we talked with you about the fact that multiple groups are pursuing a similar idea. We plan to meet with these groups after submitting the proposal to split the tasks into three parts and then combine our three websites into one big website. Some specifics on the things we want to cover are:
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+## Housing tips
+* Dining plan/meal prep tips
+* Best local restaurants and bars
+* Fun things to do 
+* Technology tips 
+* Most Instagrammable Spots In Michigan
+* Transportation Tips
+* Study Spots
+* Sports
 
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
