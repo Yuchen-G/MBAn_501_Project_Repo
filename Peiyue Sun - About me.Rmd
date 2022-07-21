@@ -1,0 +1,46 @@
+---
+title: "Peiyue Sun - About Me"
+author: "Peiyeu Sun"
+date: "7/12/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is Peiyue Sun.
+
+- I love Michigan Wolverines!
+- I love Wisconsin Badgers!
+
+Education:
+
+- Wisconsin School of Business 2016 -> 2019 Risk Management & Insurance (BBA)
+- Ross School of Business 2022 -> 2023 Business Analytics (MBAn)
+
+Technology used:
+
+- R
+- Python
+- Excel
+
+Work Experience:
+
+- 2 years at Willis Towers Watson risk consulting sector
+  * Insurance-linked securities valuation
+  * Financial Reserving for global insurance enterprises
+  
+Goal at MBAN:
+
+- Unlock my potential in business analytics and project management
+
+Hobbies:
+
+- Snooker, Basketball, Texas Hold'em, Swimming, Running, Biking, and Trap music festivals
+
+![](1.jpg){width=256}
+
+
+
+
