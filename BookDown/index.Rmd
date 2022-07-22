@@ -16,8 +16,15 @@ github-repo: rstudio/bookdown-demo
 # Table of Contents
 
 
-## Introduction
+**2. Introduction**
 
-## About Us
+**3. About Us**
+
+* 3.1 Yuchen
+* 3.2 Nikita
+* 3.3 Ben
+* 3.4 Peiyue
+* 3.5 Winnifer
+* 3.6 Jalal
 
 

@@ -1,5 +1,7 @@
 # About Us
 
+In this section you can get to know more about the members of Coded in COBOL.
+
 ## Yuchen Gao
 
 Hello! My name is Yuchen Gao. I'm currently a master student pursuing a [MBAn](https://michiganross.umich.edu/graduate/master-of-business-analytics) degree from the Ross School of Business at the University of Michigan. I have an undergraduate degree in Information Science from the [School of Information](https://www.si.umich.edu/) at the University of Michigan.
@@ -12,18 +14,18 @@ I am passionate about transforming data into impactful business solutions and wo
 
 </center>
 
-### My favorite quote
+**My favorite quote**
 > “All models are wrong, but some are useful”       
 >  George E.P. Box
 
-### Interests and Hobbies
+**Interests and Hobbies**
 - I spent the first 18 years of my life in Shanghai, but I also lived in Boston for two years before coming to Ann Arbor, MI.
 - In my free time I like to play tennis. I'm currently trying to improve my backhand and serving.
 - I'm a big fan of electronic music. My most favorite genres are techno house, future house, future bass.
 - My favorite novel is Neuromancer by William Gibson. 
 - I'm a coffee enthusiast. My favorite kind of coffee bean is Panama Geisha. If you happen to go to any coffee shop that is offering Geisha I highly recommend you to try it.
 
-### More about Me...
+**More about Me...**
 You can find more information about my professional experiences on [LinkedIn](https://www.linkedin.com/in/ycg2022/) and check out my past coding projects on [Github](https://github.com/Yuchen-G).
 
 
@@ -46,13 +48,13 @@ body {
 
 ## Nikita Mamidi
 
-### I'm Nikita Mamidi 😃
+**I'm Nikita Mamidi 😃**
 
 ------------------------------------------------------------------------
 
 <center>![](/Users/nikita/Desktop/R%20images/Screen%20Shot%202022-07-14%20at%208.08.31%20PM.png){width="900" height="450"}</center>
 
-### **A little bit about me:**
+**A little bit about me:**
 
 I graduated from the University of Illinois at Urbana Champaign with a BS in Econometrics and Quantitative Economics. I look back fondly on my undergrad days where I was an Ambassador for the amazing Economics department, the Head Teaching Assistant for a Business Statistics Course and a Senior Associate at Illinois Business Consulting. **GO ILLINI!**
 
@@ -64,7 +66,7 @@ In today's world organizations are coming up with so many fascinating data and t
 
 ------------------------------------------------------------------------
 
-### **Recent Work Experience:**
+**Recent Work Experience:**
 
 MSN Pharmaceuticals :- Sales and Marketing Executive
 
@@ -75,7 +77,7 @@ MSN Pharmaceuticals :- Sales and Marketing Executive
 
 ------------------------------------------------------------------------
 
-### **Fun Facts:**
+**Fun Facts:**
 <center>![](/Users/nikita/Desktop/R%20images/IMG_8870%202.JPG){width="320" height="350"} ![](/Users/nikita/Desktop/R%20images/IMG_9273.JPG){width="500" height="350"}</center>
 <br>
 
@@ -86,11 +88,9 @@ MSN Pharmaceuticals :- Sales and Marketing Executive
 -   I enjoy snorkeling and scuba diving
 -   I'm terrified of all animals. Yes, including cute puppies and kittens 🤯
 
-***
 
-### **That's enough about me 😁** 
 
-#### Please reach out so I can learn more about You!
+**That's enough about me 😁. Please reach out so I can learn more about You!**
 
 <u> [Linkedin](https://www.linkedin.com/in/nikita-mamidi-763b80185/)</u>
 
@@ -101,7 +101,7 @@ MSN Pharmaceuticals :- Sales and Marketing Executive
 
 Bio: Hi, I'm Ben. I was raised in Midland, MI. It's in the middle-right part of the mitten. In high school, I was on the swim team (see below) and did cross country. I also attended University of Michigan from which I graduated last year (see below). Some things that bring joy to my life are friends, family, my pets (see below), skiing, fishing, and going to Michigan Football Games!!
 
-My Education
+**My Education**
 
 - Saint Brigid Catholic School (Midland, MI USA)
 - Herbert Henry Dow High School (Midland, MI USA)
@@ -110,7 +110,7 @@ My Education
 - University of Michigan Ann Arbor (Ann Arbor, MI USA)
     - Masters in Business Analytics
 
-My **favorite** foods.
+**My favorite foods.**
 
 1. Pizza
 2. Orange Chicken
@@ -130,4 +130,74 @@ My **favorite** foods.
 > This is me at the University of Michigan Commencement with my family in April, 2022.
 
 
+## Peiyue Sun
+This is Peiyue Sun.
+
+- I love Michigan Wolverines!
+- I love Wisconsin Badgers!
+
+Education:
+
+- Wisconsin School of Business 2016 -> 2019 Risk Management & Insurance (BBA)
+- Ross School of Business 2022 -> 2023 Business Analytics (MBAn)
+
+Technology used:
+
+- R
+- Python
+- Excel
+
+Work Experience:
+
+- 2 years at Willis Towers Watson risk consulting sector
+  * Insurance-linked securities valuation
+  * Financial Reserving for global insurance enterprises
+  
+Goal at MBAN:
+
+- Unlock my potential in business analytics and project management
+
+Hobbies:
+
+- Snooker, Basketball, Texas Hold'em, Swimming, Running, Biking, and Trap music festivals
+
+![](1.jpg){width=256}
+
+
+## Winnifer Chen
+
+
+Winnifer Chen
+
+Email: winnifer@umich.edu
+
+Phone: (980) 298-7184
+
+LinkedIn: https://www.linkedin.com/in/winnifer/ 
+
+
+**Educational Background**
+I recently graduated with a Bachelor of Science in Economics with a minor in Statistics from the University of Michigan in April 2022. Currently, I am pursuing a Master of Business Analytics at the University of Michigan - Stephen M. Ross School of Business, with an expected graduation date of April 2023. 
+
+
+![](grad.JPG){width=25%}
+![](fam.JPG){width=40%}
+![](headshot.jpg){width=25%}
+
+
+
+**Fun Facts!**
+- I am from Ann Arbor, MI, but throughout my life, I have also lived in Charlotte, NC and Taipei, Taiwan.
+- I come from a family of Wolverines! Both of my parents also attended graduate school at Michigan, and my younger sister is starting her freshman year this fall. GO BLUE!
+- In my free time, I love to spend time outdoors, whether that is hiking, camping, or taking pictures of scenery. Check out some of the pictures I took: https://vsco.co/winniferchen/gallery
+- I really enjoy rewatching music videos and performances by my favorite kpop groups. One of my dreams is to go to a kpop concert one day and sit in the very front section. 
+- Immersing myself in the world of kdramas is another way for me to wind down and relax after a long day. 
+- Something that I want to do more this year is trying new recipes and cooking more. 
+
+
+
+![](dtw.png){width=23%}
+![](belleisle.png){width=25%}
+![](econ.png){width=25%}
+![](christmas.JPG){width=25%}
 
