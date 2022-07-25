@@ -10,7 +10,7 @@ I am passionate about transforming data into impactful business solutions and wo
 
 <center>
 
-![](_book/DSC00610.JPG){width=50%}
+![](DSC00610.JPG){width=50%}
 
 </center>
 
