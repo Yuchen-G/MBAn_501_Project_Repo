@@ -10,7 +10,7 @@ I am passionate about transforming data into impactful business solutions and wo
 
 <center>
 
-![](DSC00610.jpg){width=50%}
+![](_book/DSC00610.jpg){width=50%}
 
 </center>
 
@@ -52,7 +52,7 @@ body {
 
 ------------------------------------------------------------------------
 
-<center>![](nikita1.png){width="900" height="450"}</center>
+<center>![](_book/nikita1.png){width="900" height="450"}</center>
 
 **A little bit about me:**
 
@@ -62,7 +62,7 @@ In today's world organizations are coming up with so many fascinating data and t
 
 </style>
 
-<center>![](nikita3.jpeg){width="450" height="350"} ![](nikita2.png){width="450" height="350"}</center>
+<center>![](_book/nikita3.jpeg){width="450" height="350"} ![](_book/nikita2.png){width="450" height="350"}</center>
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ MSN Pharmaceuticals :- Sales and Marketing Executive
 ------------------------------------------------------------------------
 
 **Fun Facts:**
-<center>![](nikita4.jpeg){width="320" height="350"} ![](nikita5.jpeg){width="500" height="350"}</center>
+<center>![](_book/nikita4.jpeg){width="320" height="350"} ![](_book/nikita5.jpeg){width="500" height="350"}</center>
 <br>
 
 -   I love to travel. Been to 20 countries. Next Destination - Mexico 🇲🇽
@@ -117,15 +117,15 @@ Bio: Hi, I'm Ben. I was raised in Midland, MI. It's in the middle-right part of 
 3. Burgers
 
 
-![](swimmers.jpg){width=25%}
+![](_book/swimmers.jpg){width=25%}
 
 > A picture of me (left) in my more fit days on the swim team (circa 2017).
 
-![](dogs.jpeg){width=25%}
+![](_book/dogs.jpeg){width=25%}
 
 > A picture of my dogs Pearl (left) and Blue (right). They are Weimaraners.
 
-![](Graduation.jpg){width=25%}
+![](_book/Graduation.jpg){width=25%}
 
 > This is me at the University of Michigan Commencement with my family in April, 2022.
 
@@ -161,7 +161,7 @@ Hobbies:
 
 - Snooker, Basketball, Texas Hold'em, Swimming, Running, Biking, and Trap music festivals
 
-![](1.jpg){width=256}
+![](_book/1.jpg){width=256}
 
 
 ## Winnifer Chen
@@ -180,9 +180,9 @@ LinkedIn: https://www.linkedin.com/in/winnifer/
 I recently graduated with a Bachelor of Science in Economics with a minor in Statistics from the University of Michigan in April 2022. Currently, I am pursuing a Master of Business Analytics at the University of Michigan - Stephen M. Ross School of Business, with an expected graduation date of April 2023. 
 
 
-![](grad.JPG){width=25%}
-![](fam.JPG){width=40%}
-![](headshot.jpg){width=25%}
+![](_book/grad.JPG){width=25%}
+![](_book/fam.JPG){width=40%}
+![](_book/headshot.jpg){width=25%}
 
 
 
@@ -196,10 +196,10 @@ I recently graduated with a Bachelor of Science in Economics with a minor in Sta
 
 
 
-![](dtw.png){width=23%}
-![](belleisle.png){width=25%}
-![](econ.png){width=25%}
-![](christmas.JPG){width=25%}
+![](_book/dtw.png){width=23%}
+![](_book/belleisle.png){width=25%}
+![](_book/econ.png){width=25%}
+![](_book/christmas.JPG){width=25%}
 
 
 
@@ -207,9 +207,9 @@ I recently graduated with a Bachelor of Science in Economics with a minor in Sta
 
 Current Master of Business Analytics student at the Ross School of Business
 
-![](jalal1.jpg){width=25%}
-![](jalal2.jpg){width=25%}
-![](jalal3.jpg){width=25%}
+![](_book/jalal1.jpg){width=25%}
+![](_book/jalal2.jpg){width=25%}
+![](_book/jalal3.jpg){width=25%}
 
 **Background**
 
