@@ -1,15 +1,6 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is the final project for the MBAn501. It is a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
-This template provides a skeleton file structure that you can edit to create your book. 
+We hope this book can provide future MBAn students with information about the best places to hangout around AA.
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
-
-Hello World
