@@ -1,0 +1,45 @@
+---
+title: "All About Me"
+output:
+  html_document: default
+  pdf_document: default
+date: '2022-07-12'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Ben Newman
+> Team: Coded in COBOL
+
+Bio: Hi, I'm Ben. I was raised in Midland, MI. It's in the middle-right part of the mitten. In high school, I was on the swim team (see below) and did cross country. I also attended University of Michigan from which I graduated last year (see below). Some things that bring joy to my life are friends, family, my pets (see below), skiing, fishing, and going to Michigan Football Games!!
+
+My Education
+
+- Saint Brigid Catholic School (Midland, MI USA)
+- Herbert Henry Dow High School (Midland, MI USA)
+- University of Michigan Ann Arbor (Ann Arbor, MI USA)
+    - B.S. Statistics
+- University of Michigan Ann Arbor (Ann Arbor, MI USA)
+    - Masters in Business Analytics
+
+My **favorite** foods.
+
+1. Pizza
+2. Orange Chicken
+3. Burgers
+
+
+![](swimmers.jpg){width=25%}
+
+> A picture of me (left) in my more fit days on the swim team (circa 2017).
+
+![](dogs.jpeg){width=25%}
+
+> A picture of my dogs Pearl (left) and Blue (right). They are Weimaraners.
+
+![](Graduation.jpg){width=25%}
+
+> This is me at the University of Michigan Commencement with my family in April, 2022.
+
