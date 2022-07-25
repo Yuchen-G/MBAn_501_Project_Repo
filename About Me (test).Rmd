@@ -1,0 +1,35 @@
+---
+title: "About Me"
+output: html_document
+date: "2022-07-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Jalal Mawri #
+
+Current Master of Business Analytics student at the Ross School of Business 
+
+## Background ##
+
+I was born and raised in Yemen, old city of Sana'a, and I left the country in 2013 with my family and immigrated to the United States. I grew up playing Football, a.k.a soccer, and my favorite team was and still Manchester United. 
+
+## Education ## 
+
+- I graduated from the University of Michigan with High Honors in Biology and International Studies.
+- During my first two years as an undergraduate student I had the opportunity to work on a research project at the Medical School where we researched preventive medical treatments for strokes. 
+- During my senior year I wrote my thesis on the current civil war in Yemen, and I researched the Islamic Movement of Ansar Allah which is currently leading the political scene in Yemen and the Arabian Peninsula. 
+
+## Professional Experience ##
+
+- After graduating I interned for the Muslim Public Affairs Council, and worked on a project that persuaded the Biden Administration to enforce the reopening of Sana's Airport and push for a peace resolution between the parties involved in the war. 
+- After my internship, I started to work as a Data Analyst for Amazon.
+- My plan after I graduate from Ross is to go back to Amazon and work as Business Intelligence Engineer. 
+
+## Publications ##
+
+Mawri, Jalal. “Ansar Allah in Yemen: History and Ideology.” Deep Blue Repositories, 1 Aug. 2021, https://deepblue.lib.umich.edu/handle/2027.42/169403. 
+
+Venugopal J, Wang J, Mawri J, Guo C, Eitzman D. Interleukin-1 receptor inhibition reduces stroke size in a murine model of sickle cell disease. Haematologica. 2021 Sep 1;106(9):2469-2477. doi: 10.3324/haematol.2020.252395. PMID: 32817286; PMCID: PMC8409048.
