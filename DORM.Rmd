@@ -1,0 +1,45 @@
+---
+title: "Dorm options for incoming MBAn students"
+---
+
+## R Markdown
+
+Graduate Residence Options for incoming MBAn students
+
+Option 1: Munger Graduate Residence
+
+Address: 540 Thompson St, Ann Arbor, MI 48104
+
+Phone: 734-764-0145
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+Located on Central Campus, the Munger Graduate Residences are designed specifically for graduate and professional level students from all U-M schools and colleges to actively engage in a transdisciplinary community. Transdisciplinary living brings a diverse mix of graduate and professional students from various fields together to live, study and build a culture of collaboration. You’ll join other graduate students in a furnished apartment with 6 or 7 single-occupancy bedroom suites, each with a private bathroom. The suites also include a very large kitchen, dining room and community space.
+
+
+![](MUNGER1.jpg){width=256}
+
+
+![](MUNGER2.jpg){width=256}
+
+Option 2: EAST QUADRANGLE
+
+Address:701 East University Avenue, Ann Arbor, MI 48109-1245
+
+Phone: 734-764-0100
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+East Quad, a mixed-gender, undergraduate residence hall, is home to approximately 850 students each year. It’s on Central Campus near the South University shopping area and many academic buildings including Ross School of Business and the School of Education.
+
+
+![](EQUA2.jpg){width=256}
+
+
+![](EQUA1.jpg){width=256}
