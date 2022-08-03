@@ -1,0 +1,210 @@
+# Housing
+
+## Finding a sublease
+
+## Lease Subletting Information
+
+### Who this page is for:
+- Current MBAn students wishing to sublet their current leases to future MBAn studets
+- Prospective and admitted MBAn students wanting to find housing for the former or latter part of their experience
+
+### You Want to Sublet Your Lease
+So, you want to sublet your lease, but have had trouble finding someone. Great! We have taken the pain out of this process by connecting you with future MBAn students hungry to find a place to stay for a few months before their lease starts. To get started, just fill out this form. Interested students will be able to see all of this information and will contact you if they are interested. 
+
+Form: https://docs.google.com/forms/d/e/1FAIpQLSfd5a1n3rtsh2xlqPA1M3tiaQFIl-nXuANBcQ9awZvN5U2sag/viewform
+
+### You Need a Place to Stay
+Your lease doesn't start until August, so you need a place to stay for the summer. Or, your lease ends early and you need a place to stay for those last few month of the MBAn program. No problem! In the Google Sheet below, you will find a list of current MBAn students wishing to sublet their lease. Plenty of information about the properties is included in this document, but if you need more info, don't hesitate to reach out--contact information is provided. Happy shopping!
+
+Sheet: https://docs.google.com/spreadsheets/d/1nCS9Tw-RBSAceeZNXqH_YfsoTt1rkVl-x5Z3lqS9AoQ/edit?resourcekey#gid=536291696
+
+
+## Dorms
+Graduate Residence Options for incoming MBAn students
+
+Option 1: Munger Graduate Residence
+
+Address: 540 Thompson St, Ann Arbor, MI 48104
+
+Phone: 734-764-0145
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+Located on Central Campus, the Munger Graduate Residences are designed specifically for graduate and professional level students from all U-M schools and colleges to actively engage in a transdisciplinary community. Transdisciplinary living brings a diverse mix of graduate and professional students from various fields together to live, study and build a culture of collaboration. You’ll join other graduate students in a furnished apartment with 6 or 7 single-occupancy bedroom suites, each with a private bathroom. The suites also include a very large kitchen, dining room and community space.
+
+
+![](MUNGER1.jpg){width=256}
+
+
+![](MUNGER2.jpg){width=256}
+
+Option 2: EAST QUADRANGLE
+
+Address:701 East University Avenue, Ann Arbor, MI 48109-1245
+
+Phone: 734-764-0100
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+East Quad, a mixed-gender, undergraduate residence hall, is home to approximately 850 students each year. It’s on Central Campus near the South University shopping area and many academic buildings including Ross School of Business and the School of Education.
+
+
+![](EQUA2.jpg){width=256}
+
+
+![](EQUA1.jpg){width=256}
+
+## High-rise Apartments
+
+### Central Campus
+
+### Apartments Near Ross
+* Foundry Lofts
+
+![](Foundry_Lofts_inside_1.jpg){width=32%}
+![](Foundry_Lofts_inside_2.jpg){width=32%}
+![](Foundry_Lofts_outside_1.jpg){width=31%} 
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("Foundry map.PNG")
+```
+
+**Website:** https://www.foundryloftsannarbor.com/?utm_medium=market_site&utm_campaign=market_site&utm_source=liveumich
+
+**Floor plans:**
+Studio, 1-, 2-, 3-, & 4-Bedroom Apartments
+
+**Description:**
+If you’re looking for a lavish living experience with exclusive amenities, a premier location just minutes from campus, and the latest in interior apartment features, Foundry Lofts is right for you. Enjoy scenic views from the rooftop deck, stay productive in the work and study lounge, or satisfy late-night cravings at our ground-floor retail area. With fully furnished floor plans featuring private bedrooms and bath suites, expansive closets, stainless steel appliances, and so much more, Foundry Lofts offers everything one needs to live in style and comfort. With the needs of young professionals in mind, Foundry Lofts seamlessly weaves features to promote academics and socialization with a community that feels like home.
+
+**Pros:**
+Near Local Restaurants & Retail in Downtown
+
+
+* Landmark
+
+
+![](landmark_exterior1.png){width=32%}
+![](landmark_interior.png){width=30%}
+![](landmark_interior2.png){width=35%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("landmark_map.png")
+```
+
+
+**Website:** https://www.livethelandmark.com/ 
+
+**Floor plans:** Studio, 2-, 3-, 4-, 5-, & 6-Bedroom Apartments
+
+**Description:** Landmark is a high-rise luxury apartment located just in an 8-minute walk away from Ross. They offer a variety of floor plans from 1 to 6 bedrooms that come with 1 to 4 baths. In terms of pricing, the monthly rent ranges from $1250 to $2074. 
+
+
+**Pros:** Washer and dryer in unit, fully furnished, and amenities include gym, pool, hot tub, study space, garage parking, theater
+
+
+
+* z place 
+
+![](zplace_exterior.png){width=36%}
+![](zplace_interior1.png){width=32%}
+![](zplace_interior2.png){width=30%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("zplace_map.png")
+```
+
+
+**Website:** https://www.zplaceapartments.com/
+
+
+**Floor plans:** 2-, 4-, & 6-Bedroom Apartments
+
+
+**Description:** Located just a 4 minute walk away from the Ross School of Business, Z Place Apartments offers luxury apartment units that will give you feel a sense of home, even when you are away from home. 
+
+
+**Pros:** Washer and dryer in unit, fully furnished, and amenities include gym, underground parking
+
+
+
+
+* Six11
+
+![](611_exterior.png){width=33%}
+![](611_interior1.png){width=32%}
+![](611_interior2.png){width=33%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("611_map.png")
+```
+
+
+
+**Website:** https://www.livesix11.com/
+
+
+**Floor plans:** Studio, 4-, 5-, & 6-Bedroom Apartments
+
+
+**Description:** Looking for a luxury apartment just 5 minutes away from Ross? Six11 offers apartment units ranging from $1489 to $2359. 
+
+
+**Pros:** Washer and dryer in unit, fully furnished, and amenities include rooftop terrace, gym, printers, study rooms, parking garage
+
+
+
+### South Campus
+* Hoover and Greene
+
+![](HG_exterior.png){width=32%}
+![](HG_interior1.png){width=32%}
+![](HG_interior2.png){width=32%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("HG_map.png")
+```
+
+
+
+
+**Website:** https://hooverandgreene.com/
+
+
+**Floor plans:** Studio, 1-, & 2-Bedroom Apartments
+
+
+**Description:** Hoover and Greene is a luxury apartment complex located on the South side of campus, with close proximity to many of the athletic fields, and most importantly the Big House. Perfect location for any sports fans, as well as anyone studying at Ross. 
+
+
+**Pros:** Washer and dryer in unit and amenities include gym, working space, courtyard terrace, pool
+
+
+
+
+* 618 South Main
+
+
+![](SM_exterior.png){width=32%}
+![](SM_interior1.png){width=32%}
+![](SM_interior2.png){width=32%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("SM_map.png")
+```
+
+
+
+
+**Website:** https://www.618southmain.com/
+
+
+**Floor plans:** Studio, 1-, & 2-Bedroom Apartments
+
+
+**Description:** 618 South Main is another housing option for anyone interested in living on South Campus near the athletic fields. In addition, this is one of the few high-rise, luxury apartments near campus that allows pets. 
+
+
+**Pros:** Washer and dryer in unit, and amenities include gym, resident lounge, pool and hot tub, and underground parking. 2 pets are allowed but you do have to pay both a one-time fee and monthly rent. 
+
+
