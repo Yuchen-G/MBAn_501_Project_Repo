@@ -13,9 +13,12 @@
 ### Apartments Near Ross
 * Foundry Lofts
 
-![](Foundry_Lofts_inside_1.jpg){width=25%}
-![](Foundry_Lofts_inside_2.jpg){width=25%}
-![](Foundry_Lofts_outside_1.jpg){width=24%} ![](Foundry map.PNG){width=24%}
+![](Foundry_Lofts_inside_1.jpg){width=32%}
+![](Foundry_Lofts_inside_2.jpg){width=32%}
+![](Foundry_Lofts_outside_1.jpg){width=31%} 
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("Foundry map.PNG")
+```
 
 **Website:** https://www.foundryloftsannarbor.com/?utm_medium=market_site&utm_campaign=market_site&utm_source=liveumich
 
