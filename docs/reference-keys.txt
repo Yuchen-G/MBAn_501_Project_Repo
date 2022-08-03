@@ -10,10 +10,12 @@ winnifer-chen
 jalal-mawri
 housing
 finding-a-sublease
-sublease-information-google-sheet
+lease-subletting-information
+who-this-page-is-for
+you-want-to-sublet-your-lease
+you-need-a-place-to-stay
 dorms
 high-rise-apartments
 central-campus
 apartments-near-ross
 south-campus
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
