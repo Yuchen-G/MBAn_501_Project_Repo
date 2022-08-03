@@ -50,10 +50,12 @@ Near Local Restaurants & Retail in Downtown
 * Landmark
 
 
-![](landmark_exterior1.png){width=23%}
-![](landmark_interior.png){width=15%}
-![](landmark_interior2.png){width=25%}
-![](landmark_map.png){width=35%}
+![](landmark_exterior1.png){width=32%}
+![](landmark_interior.png){width=30%}
+![](landmark_interior2.png){width=35%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("landmark_map.png")
+```
 
 
 **Website:** https://www.livethelandmark.com/ 
@@ -69,10 +71,12 @@ Near Local Restaurants & Retail in Downtown
 
 * z place 
 
-![](zplace_exterior.png){width=24%}
-![](zplace_interior1.png){width=20%}
-![](zplace_interior2.png){width=18%}
-![](zplace_map.png){width=36%}
+![](zplace_exterior.png){width=36%}
+![](zplace_interior1.png){width=32%}
+![](zplace_interior2.png){width=30%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("zplace_map.png")
+```
 
 
 **Website:** https://www.zplaceapartments.com/
@@ -91,10 +95,12 @@ Near Local Restaurants & Retail in Downtown
 
 * Six11
 
-![](611_exterior.png){width=22%}
-![](611_interior1.png){width=22%}
-![](611_interior2.png){width=22%}
-![](611_map.png){width=28%}
+![](611_exterior.png){width=33%}
+![](611_interior1.png){width=32%}
+![](611_interior2.png){width=33%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("611_map.png")
+```
 
 
 
@@ -114,10 +120,12 @@ Near Local Restaurants & Retail in Downtown
 ### South Campus
 * Hoover and Greene
 
-![](HG_exterior.png){width=20%}
-![](HG_interior1.png){width=20%}
-![](HG_interior2.png){width=20%}
-![](HG_map.png){width=36%}
+![](HG_exterior.png){width=32%}
+![](HG_interior1.png){width=32%}
+![](HG_interior2.png){width=32%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("HG_map.png")
+```
 
 
 
@@ -139,10 +147,12 @@ Near Local Restaurants & Retail in Downtown
 * 618 South Main
 
 
-![](SM_exterior.png){width=20%}
-![](SM_interior1.png){width=20%}
-![](SM_interior2.png){width=20%}
-![](SM_map.png){width=36%}
+![](SM_exterior.png){width=32%}
+![](SM_interior1.png){width=32%}
+![](SM_interior2.png){width=32%}
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("SM_map.png")
+```
 
 
 
