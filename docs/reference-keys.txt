@@ -8,7 +8,6 @@ ben-newman
 peiyue-sun
 winnifer-chen
 jalal-mawri
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
 housing
 finding-a-sublease
 sublease-information-google-sheet
