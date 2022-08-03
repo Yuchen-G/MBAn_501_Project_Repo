@@ -112,9 +112,7 @@ East Quad, a mixed-gender, undergraduate residence hall, is home to approximatel
 ## High-rise Apartments
 
 ### Central Campus
-
-### Apartments Near Ross
-* Foundry Lofts
+#### Foundry Lofts
 
 ![](Foundry_Lofts_inside_1.jpg){width=32%}
 ![](Foundry_Lofts_inside_2.jpg){width=32%}
@@ -134,7 +132,7 @@ If you’re looking for a lavish living experience with exclusive amenities, a p
 **Pros:**
 Near Local Restaurants & Retail in Downtown
 
-* Saga Ann Arbor
+#### Saga Ann Arbor
 
 ![](saga interior.jpg){width=32%}
 ![](saga interior 2.jpg){width=32%}
@@ -155,9 +153,8 @@ Saga Ann Arbor provides students with more than just a place to call home. The o
 **Pros:**
 Nearby Retail & Shopping Destinations
 
-
-* Landmark
-
+### Apartments Near Ross
+#### Landmark
 
 ![](landmark_exterior1.png){width=32%}
 ![](landmark_interior.png){width=30%}
@@ -178,7 +175,7 @@ knitr::include_graphics("landmark_map.png")
 
 
 
-* z place 
+#### z place 
 
 ![](zplace_exterior.png){width=36%}
 ![](zplace_interior1.png){width=32%}
@@ -202,7 +199,7 @@ knitr::include_graphics("zplace_map.png")
 
 
 
-* Six11
+#### Six11
 
 ![](611_exterior.png){width=33%}
 ![](611_interior1.png){width=32%}
@@ -227,7 +224,7 @@ knitr::include_graphics("611_map.png")
 
 
 ### South Campus
-* Hoover and Greene
+#### Hoover and Greene
 
 ![](HG_exterior.png){width=32%}
 ![](HG_interior1.png){width=32%}
@@ -253,7 +250,7 @@ knitr::include_graphics("HG_map.png")
 
 
 
-* 618 South Main
+#### 618 South Main
 
 
 ![](SM_exterior.png){width=32%}
