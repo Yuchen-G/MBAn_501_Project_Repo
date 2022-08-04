@@ -154,6 +154,30 @@ Saga Ann Arbor provides students with more than just a place to call home. The o
 Nearby Retail & Shopping Destinations
 
 ### Apartments Near Ross
+
+#### University Towers 
+
+![](Towers interior.jpg){width=32%} 
+![](Towers interior 2.jpg){width=32%} 
+![](towers exterior.jpg){width=25%} 
+```{r, echo=FALSE, fig.align='center'} 
+knitr::include_graphics("towers map.jpg") 
+```
+
+**Website:** 
+https://u-towers.com/
+
+**Floor plans:**
+1-, 2-, 3-, & 4-Bedroom Apartments
+
+**Description:**
+Majestically overlooking downtown Ann Arbor, University Towers is the new standard for students in downtown apartment living. University Towers student housing features spacious and contemporary studio, one, two, and three bedroom floor plans with resort-class amenities and an award-winning leasing and maintenance staff. Residents can choose between two custom finish packages, and each apartment home is equipped with a fully renovated kitchen and bathroom, spacious bedrooms, and brand new windows with breathtaking views of the city.
+Venturing outside of their off campus housing, residents indulge in various community amenities including the outdoor resort-style swimming pool, 24/7 state of the art fitness center, free Vertex coffee and tea bar, on-site restaurant, and convenience store.
+
+**Pros:**
+Over 30 restaurants and coffee shops are within 2 blocks from the apartment including East Quad dining.
+
+
 #### Landmark
 
 ![](landmark_exterior1.png){width=32%}
