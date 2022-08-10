@@ -12,38 +12,48 @@ Finding a parking spot in Central Campus is a very hard challenge for most peopl
 
 ## Streets where You Can Park your Car for Free all day 
 Tappen Ave (Starting at the intersection with Hill St all the way until Oakland Ave)
+
 Coordinates: 42.27188° N, 83.73788° W
 
 E. University Ave (Starting at the intersection with Hill St all the way until Packard St)
+
 Coordinates: 42.27192° N, 83.73569° W
 
 Oakland Ave (Starting at the intersection with Hill St all the way until Forest Ave)
+
 Coordinates: 42.27182° N, 83.73941° W
 
 
 ## Streets where You Can Park your Car for Free for Four Hours 
 Church St (Starting at the intersection with Hill St all the way until Prospect St)
+
 Coordinates: 42.27194° N, 83.73449° W
 
 S. Forest Ave (Starting at the intersection with Hill St all the way until Prospect St)
+
 Coordinates: 42.27194° N, 83.73449° W
 
 Prospect St (Starting at the intersection with Wells St all the way intil E. University Ave)
+
 Coordinates: 42.26701° N, 83.73328° W
 
 
 ## Streets where You Can Park your Car with Parking Meteres
 These streets have meters on them where parking is available for $1.60 /hour (no permit is required)
 Tappen Ave (Starting from the intersection with S. University Ave all the way until Hill St)
+
 Coordinates: 42.27488° N, 83.73825° W
 
 E. University Ave (Starting at the intersection with S University Ave all the way until Hill St)
+
 Coordinates: 42.27492° N, 83.73457° W
 
 Church St (Starting at the intersection with S. University Ave all the way until Hill St)
+
 Coordinates: 42.27492° N, 83.73457° W
 
 S. Forrest Ave (Starting at the intersection with S. University Ave All the way until Hill St)
+
 Coordinates: 42.27493° N, 83.73313° W
 
 ```{r, echo=FALSE, fig.align='center'}
