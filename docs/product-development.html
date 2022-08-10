@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 5 Product Development | HW3: Group Project GitHub + Bookdown Setup</title>
+  <meta name="description" content="This is our assignment for HW3." />
+  <meta name="generator" content="bookdown 0.27 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 5 Product Development | HW3: Group Project GitHub + Bookdown Setup" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="This is our assignment for HW3." />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 5 Product Development | HW3: Group Project GitHub + Bookdown Setup" />
+  
+  <meta name="twitter:description" content="This is our assignment for HW3." />
+  
+
+<meta name="author" content="Coded in COBOL" />
+
+
+<meta name="date" content="2022-08-09" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="housing.html"/>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Book by Coded In Cobol</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Table of Contents</a></li>
+<li class="chapter" data-level="2" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>2</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="introduction.html"><a href="introduction.html#what-we-plan-to-cover"><i class="fa fa-check"></i><b>2.1</b> What We Plan to Cover</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="about-us.html"><a href="about-us.html"><i class="fa fa-check"></i><b>3</b> About Us</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="about-us.html"><a href="about-us.html#yuchen-gao"><i class="fa fa-check"></i><b>3.1</b> Yuchen Gao</a></li>
+<li class="chapter" data-level="3.2" data-path="about-us.html"><a href="about-us.html#nikita-mamidi"><i class="fa fa-check"></i><b>3.2</b> Nikita Mamidi</a></li>
+<li class="chapter" data-level="3.3" data-path="about-us.html"><a href="about-us.html#ben-newman"><i class="fa fa-check"></i><b>3.3</b> Ben Newman</a></li>
+<li class="chapter" data-level="3.4" data-path="about-us.html"><a href="about-us.html#peiyue-sun"><i class="fa fa-check"></i><b>3.4</b> Peiyue Sun</a></li>
+<li class="chapter" data-level="3.5" data-path="about-us.html"><a href="about-us.html#winnifer-chen"><i class="fa fa-check"></i><b>3.5</b> Winnifer Chen</a></li>
+<li class="chapter" data-level="3.6" data-path="about-us.html"><a href="about-us.html#jalal-mawri"><i class="fa fa-check"></i><b>3.6</b> Jalal Mawri</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="housing.html"><a href="housing.html"><i class="fa fa-check"></i><b>4</b> Housing</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="housing.html"><a href="housing.html#finding-a-sublease"><i class="fa fa-check"></i><b>4.1</b> Finding a sublease</a></li>
+<li class="chapter" data-level="4.2" data-path="housing.html"><a href="housing.html#lease-subletting-information"><i class="fa fa-check"></i><b>4.2</b> Lease Subletting Information</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="housing.html"><a href="housing.html#who-this-page-is-for"><i class="fa fa-check"></i><b>4.2.1</b> Who this page is for:</a></li>
+<li class="chapter" data-level="4.2.2" data-path="housing.html"><a href="housing.html#you-want-to-sublet-your-lease"><i class="fa fa-check"></i><b>4.2.2</b> You Want to Sublet Your Lease</a></li>
+<li class="chapter" data-level="4.2.3" data-path="housing.html"><a href="housing.html#you-need-a-place-to-stay"><i class="fa fa-check"></i><b>4.2.3</b> You Need a Place to Stay</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="housing.html"><a href="housing.html#dorms"><i class="fa fa-check"></i><b>4.3</b> Dorms</a></li>
+<li class="chapter" data-level="4.4" data-path="housing.html"><a href="housing.html#high-rise-apartments"><i class="fa fa-check"></i><b>4.4</b> High-rise Apartments</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="housing.html"><a href="housing.html#central-campus"><i class="fa fa-check"></i><b>4.4.1</b> Central Campus</a></li>
+<li class="chapter" data-level="4.4.2" data-path="housing.html"><a href="housing.html#apartments-near-ross"><i class="fa fa-check"></i><b>4.4.2</b> Apartments Near Ross</a></li>
+<li class="chapter" data-level="4.4.3" data-path="housing.html"><a href="housing.html#south-campus"><i class="fa fa-check"></i><b>4.4.3</b> South Campus</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="product-development.html"><a href="product-development.html"><i class="fa fa-check"></i><b>5</b> Product Development</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="product-development.html"><a href="product-development.html#our-group-process"><i class="fa fa-check"></i><b>5.1</b> Our Group Process</a></li>
+<li class="chapter" data-level="5.2" data-path="product-development.html"><a href="product-development.html#handling-challenges-and-changes"><i class="fa fa-check"></i><b>5.2</b> Handling Challenges and Changes</a></li>
+<li class="chapter" data-level="5.3" data-path="product-development.html"><a href="product-development.html#agile-work-practices"><i class="fa fa-check"></i><b>5.3</b> Agile Work Practices</a></li>
+<li class="chapter" data-level="5.4" data-path="product-development.html"><a href="product-development.html#managing-complexity"><i class="fa fa-check"></i><b>5.4</b> Managing Complexity</a></li>
+<li class="chapter" data-level="5.5" data-path="product-development.html"><a href="product-development.html#plans-moving-forward"><i class="fa fa-check"></i><b>5.5</b> Plans Moving Forward</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">HW3: Group Project GitHub + Bookdown Setup</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="product-development" class="section level1 hasAnchor" number="5">
+<h1><span class="header-section-number">Chapter 5</span> Product Development<a href="product-development.html#product-development" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="our-group-process" class="section level2 hasAnchor" number="5.1">
+<h2><span class="header-section-number">5.1</span> Our Group Process<a href="product-development.html#our-group-process" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><em>A documentation of your group process - how did you use the class material to make your group more effective.</em></p>
+<p>We utilized our Team Charter to set up rules and norms for the whole team which made our meetings more productive. We used GitHub regularly to improve our efficiency in finishing projects on time.
+The midpoint survey helped us highlight the areas that we need to improve on
+Setting up meetings with at least a 24 hours note.
+Putting a title for each meeting so that everyone can prepare for the topic we’re meeting for.
+One of the Agile principles that we’re trying to apply in our work is “simplicity.”
+Our goal is to design a website that is simple, yet provides new MBAn students with all the resources they need when arriving at Ross.<br />
+We established a norm where all ideas are presented on a board and we vote on them making our team work more inclusive and democratic.</p>
+</div>
+<div id="handling-challenges-and-changes" class="section level2 hasAnchor" number="5.2">
+<h2><span class="header-section-number">5.2</span> Handling Challenges and Changes<a href="product-development.html#handling-challenges-and-changes" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><em>How did your group handle challenges and change</em></p>
+<p>We are very supportive of each other as a team. We each had some trouble setting up GitHub initially. So the members who figured out how to push/pull were able to sort out any issues the other members had.
+We had the same website idea as some of the other teams, but instead of switching our topic, we approached the professor with our take on a Guide to Ann Arbor, and our plan to differentiate our site from the others with a particular focus on housing. Our passion for our project let us to convince him.
+How did you divide work, leverage the unique strengths of each individual in the team
+We broke the project into small pieces such as setting up GitHub pages, building books, etc. In terms of the book content, we also divided the sections of the book based on the strengths listed on our team charter. For example, Ben was experienced with google Forms and google sheet so he contributed to the sublease information form. Yuchen had previous experience with RStidio and GitHub so he was in charge of setting up GitHub and helping other members in the team with syncing with the remote repository. Other team members contributed to the project by setting up goals and timelines, and ensuring everyone in the team is working efficiently.</p>
+</div>
+<div id="agile-work-practices" class="section level2 hasAnchor" number="5.3">
+<h2><span class="header-section-number">5.3</span> Agile Work Practices<a href="product-development.html#agile-work-practices" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><em>How did you adopt agile work practices</em></p>
+<p>We adopted several agile work practices in our group to keep the development process smooth and efficient. For one, we decided to name our gatherings according to the task to be done during that session. When unexpected challenges arose and forced us to change the scope of our project, we held a “Scope Change Document Write-up” session to document the changes to be made to our website, rather than a “weekly meeting.” When we arrived at the meeting, we were all prepared to dive into the task and did not have the feeling of dread accompanied by attending routine meetings. Second, we decided to eliminate minutes kept from our team charter. This allowed the meetings to flow much more organically and reduce the formality of the meetings. Finally, we decided to project work on one big screen in our meeting rooms to eliminate distractions and develop a central focus on the task.</p>
+</div>
+<div id="managing-complexity" class="section level2 hasAnchor" number="5.4">
+<h2><span class="header-section-number">5.4</span> Managing Complexity<a href="product-development.html#managing-complexity" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><em>How did you manage the RMarkdown/Git/GitHub complexity and learning curve</em></p>
+<p>Each of us made unique About Me websites, so everyone came in with different things they knew how to add in RMarkdown. This allowed us to show each other what we were capable of creating and allowed us to create a more visually-pleasing website using RMarkdown. As mentioned above, using Git and GitHub was difficult, especially with all the committing, pulling, and pushing we needed to do. After many tries, everyone on the team knows how to do it by themselves now so we can keep working on our website outside of team meetings, and this greatly increases our team productivity and efficiency.</p>
+</div>
+<div id="plans-moving-forward" class="section level2 hasAnchor" number="5.5">
+<h2><span class="header-section-number">5.5</span> Plans Moving Forward<a href="product-development.html#plans-moving-forward" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><em>What more could you do to become a more effective and productive team in the time left</em></p>
+<p>One way to increase the effectiveness and efficiency of our team in the remaining days is to set clear objectives and goals for each meeting. This way, every member can come to each meeting with their completed parts and be ready for discussion and revision. At the end of each meeting, we should schedule subsequent meetings and make sure everyone understands what they need to have completed by the next meeting.
+Anything else you would like to provide that pertains to your group process and effectiveness.
+Our group did well in setting up clear goals to achieve for each meeting. A typical Coded in Cobol meeting includes an agenda and a breakdown of bullet points for discussion.
+We often schedule work meetings 3 days ahead, giving each member plenty of time for preparation that leads to meaningful discussion.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="housing.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/05-product-development.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["A Book by Coded In Cobol.pdf", "A Book by Coded In Cobol.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

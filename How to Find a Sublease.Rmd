@@ -1,5 +1,10 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 ## How To Find A Sublease
-
+ 
 <style>
 title {
   color: #3D0C02;
@@ -18,9 +23,9 @@ body {
 You can use these groups to find subleases to your liking. The posts usually specify the number of beds/baths, amenities, prices, pictures and contact info. Make sure to reach out to the subleaser through messenger. You can always negotiate and reduce the price as it is a buyers market in Ann Arbor.
 
 <br>
-![](Screen Shot 2022-08-03 at 3.05.44 PM.png){width="300" height="250"} 
-![](Screen Shot 2022-08-03 at 3.05.55 PM.png){width="300" height="250"}
-![](Screen Shot 2022-08-03 at 3.06.08 PM.png){width="300" height="250"} 
+![](Screen Shot 2022-08-03 at 3.05.44 PM.png){width=140, height=170} 
+![](Screen Shot 2022-08-03 at 3.05.55 PM.png){width=140, height=170}
+![](Screen Shot 2022-08-03 at 3.06.08 PM.png){width=140, height=170} 
 
 
 - UMICH Housing, Rooms, Apartments, Sublets - (largest group with 33.4 K members)
