@@ -2,7 +2,6 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-rmd_files: ["index.Rmd", "01-intro.Rmd", "02-about-us.Rmd", "03-finding-housing.Rmd", 
-            "05-product-development.Rmd", "06-BarsAndFood.Rmd", "07-dining.Rmd", "08-fun-things.Rmd"]
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-about-us.Rmd", "03-finding-housing.Rmd", "05-product-development.Rmd", "06-BarsAndFood.Rmd", "07-dining.Rmd", "08-fun-things.Rmd"]
 output_dir: "docs"
 book_filename: "A Book by Coded In Cobol"
