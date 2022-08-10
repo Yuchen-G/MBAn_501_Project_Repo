@@ -70,7 +70,7 @@ github-repo: rstudio/bookdown-demo
 * 8.6 Athletic Events
 * 8.7 Places to Visit Outside Ann Arbor
 
-**9. Study Spots**
+**9. Technology Tips**
 
 * 9.1 
 * 9.2 
@@ -79,7 +79,7 @@ github-repo: rstudio/bookdown-demo
 * 9.5 
 * 9.6 
 
-**10. Technology Tips**
+**10. Transportation Tips**
 
 * 10.1 
 * 10.2 
@@ -88,7 +88,7 @@ github-repo: rstudio/bookdown-demo
 * 10.5 
 * 10.6 
 
-**11. Transportation Tips**
+**11. Study Spots**
 
 * 11.1 
 * 11.2 
