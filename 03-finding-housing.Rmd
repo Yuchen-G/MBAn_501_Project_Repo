@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Housing
 
 ## Finding a sublease
@@ -67,47 +72,48 @@ Your lease doesn't start until August, so you need a place to stay for the summe
 
 Sheet: https://docs.google.com/spreadsheets/d/1nCS9Tw-RBSAceeZNXqH_YfsoTt1rkVl-x5Z3lqS9AoQ/edit?resourcekey#gid=536291696
 
-
 ## Dorms
-Graduate Residence Options for incoming MBAn students
+**Graduate Residence Options for incoming MBAn students**
 
-Option 1: Munger Graduate Residence
+**Option 1**: Munger Graduate Residence
 
-Address: 540 Thompson St, Ann Arbor, MI 48104
+**Address**: 540 Thompson St, Ann Arbor, MI 48104
 
-Phone: 734-764-0145
+**Phone**: 734-764-0145
 
-E-mail: msaraino@umich.edu
+**E-mail**: fkamara@umich.edu
 
-Price: $1100/Month -> $2000/Month
+**Lease Term**: Munger contract terms end on either May 23 or July 23
 
-Description: 
+**Price**: $1100/
+
+**Features**: Close to campus, fully furnished and utilities included
+
+**Description**: 
 Located on Central Campus, the Munger Graduate Residences are designed specifically for graduate and professional level students from all U-M schools and colleges to actively engage in a transdisciplinary community. Transdisciplinary living brings a diverse mix of graduate and professional students from various fields together to live, study and build a culture of collaboration. You’ll join other graduate students in a furnished apartment with 6 or 7 single-occupancy bedroom suites, each with a private bathroom. The suites also include a very large kitchen, dining room and community space.
-
 
 ![](MUNGER1.jpg){width=256}
 
-
 ![](MUNGER2.jpg){width=256}
 
-Option 2: EAST QUADRANGLE
+**Option 2**: NORTHWOOD I, II, IV & V APARTMENTS
 
-Address:701 East University Avenue, Ann Arbor, MI 48109-1245
+**Address**:1000 McIntyre, Ann Arbor, MI 48105
 
-Phone: 734-764-0100
+**Phone**: 734-764-9998
 
-E-mail: msaraino@umich.edu
+**E-mail**: venegas@umich.edu
 
-Price: $1100/Month -> $2000/Month
+**Price**: Call for detail
 
-Description: 
-East Quad, a mixed-gender, undergraduate residence hall, is home to approximately 850 students each year. It’s on Central Campus near the South University shopping area and many academic buildings including Ross School of Business and the School of Education.
+**Features**: Utilities included with free parking lot
 
+**Description**: 
+There’s a lively and warm community at Northwood.  And because there is an active and kid-friendly social scene lead by our Residential Staff, it’s an ideal place for students with families. Our large Community Center has lounge areas, games, and hosts events all season long. Outside you’ll find playground areas, basketball and volleyball courts, and softball and soccer fields.
 
-![](EQUA2.jpg){width=256}
+![](NORTHWOOD1.jpeg){width=256}
 
-
-![](EQUA1.jpg){width=256}
+![](NORTHWOOD2.gif){width=256}
 
 ## High-rise Apartments
 
