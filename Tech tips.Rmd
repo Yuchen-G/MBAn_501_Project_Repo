@@ -1,0 +1,14 @@
+# Tech Tips
+
+## Software Preperation
+In the summer semester, you will need to use Python, Excel, RStudio, and GitHub in MBAn 550, MBAn 551, 
+MBAn501 respectively. Since many students from the first cohort had not used these tools before, learning how to set up the environment and use the software caused much headache among us. So our advice for incoming students who has little experience in these tools is to try to set up the environment and familiarize yourself with the tools before the summer session begin.  
+### Python Preperation
+To set up Python correctly in your computer, you should first download the latest version of the programming language from the [official website](https://www.python.org/downloads/).
+![]()
+
+### Excel Preperation
+
+### GitHub Preperation
+
+### R & RStudio
