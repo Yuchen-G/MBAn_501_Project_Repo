@@ -1,4 +1,4 @@
-table-of-contents
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
 introduction
 what-we-plan-to-cover
 about-us
@@ -33,7 +33,9 @@ handling-challenges-and-changes
 agile-work-practices
 managing-complexity
 plans-moving-forward
-bars-and-good
+best-restaurants-and-food
+restaurants
+bars
 fun-things-to-do-in-ann-arbor
 outdoor-activities
 shopping
@@ -57,7 +59,6 @@ student-visa-and-work-authorizations
 airfare
 telecommunication-provider-set-up
 bank-account-set-up
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
 available-parking-spots-around-ross
 before-parking-your-car-here-are-some-things-to-keep-in-mind
 streets-where-you-can-park-your-car-for-free-all-day
