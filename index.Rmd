@@ -34,3 +34,63 @@ github-repo: rstudio/bookdown-demo
 * 4.3 Dorm Options
 * 4.4 Luxury Apartments
 
+**5. Product Development**
+
+* 5.1 
+* 5.2 
+* 5.3 
+* 5.4 
+* 5.5 
+* 5.6 
+
+**6. Best Local Restaurants and Bars**
+* 6.1 
+* 6.2 
+* 6.3 
+* 6.4 
+* 6.5 
+* 6.6 
+
+**7. Dining Options**
+* 7.1 
+* 7.2 
+* 7.3 
+* 7.4 
+* 7.5 
+* 7.6 
+
+**8. Fun Things to do in Ann Arbor**
+* 8.1 
+* 8.2 
+* 8.3 
+* 8.4 
+* 8.5 
+* 8.6 
+
+**9. Study Spots**
+* 9.1 
+* 9.2 
+* 9.3 
+* 9.4 
+* 9.5 
+* 9.6 
+
+**10. Technology Tips**
+* 10.1 
+* 10.2 
+* 10.3 
+* 10.4 
+* 10.5 
+* 10.6 
+
+**11. Transportation Tips**
+* 11.1 
+* 11.2 
+* 11.3 
+* 11.4 
+* 11.5 
+* 11.6 
+
+
+
+
