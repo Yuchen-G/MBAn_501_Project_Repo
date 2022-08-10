@@ -43,6 +43,7 @@ github-repo: rstudio/bookdown-demo
 * 5.5 Plans Moving Forward
 
 **6. Best Local Restaurants and Bars**
+
 * 6.1 
 * 6.2 
 * 6.3 
@@ -51,6 +52,7 @@ github-repo: rstudio/bookdown-demo
 * 6.6 
 
 **7. Dining Options**
+
 * 7.1 
 * 7.2 
 * 7.3 
@@ -59,6 +61,7 @@ github-repo: rstudio/bookdown-demo
 * 7.6 
 
 **8. Fun Things to do in Ann Arbor**
+
 * 8.1 Outdoor Activities
 * 8.2 Shopping
 * 8.3 Downtown Ann Arbor
@@ -68,6 +71,7 @@ github-repo: rstudio/bookdown-demo
 * 8.7 Places to Visit Outside Ann Arbor
 
 **9. Study Spots**
+
 * 9.1 
 * 9.2 
 * 9.3 
@@ -76,6 +80,7 @@ github-repo: rstudio/bookdown-demo
 * 9.6 
 
 **10. Technology Tips**
+
 * 10.1 
 * 10.2 
 * 10.3 
@@ -84,6 +89,7 @@ github-repo: rstudio/bookdown-demo
 * 10.6 
 
 **11. Transportation Tips**
+
 * 11.1 
 * 11.2 
 * 11.3 
