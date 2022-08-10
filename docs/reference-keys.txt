@@ -1,4 +1,4 @@
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
+table-of-contents
 introduction
 what-we-plan-to-cover
 about-us
@@ -47,3 +47,8 @@ places-to-visit-outside-ann-arbor
 southeast-michigan
 west-michigan
 upper-peninsula
+tech-tips
+software-preperation
+excel-preperation
+git-and-github
+r-rstudio
