@@ -1,8 +1,8 @@
-**International Student Information**
+# International Student Information
 
 For incoming international MBAn students, there are 4 key aspects to efficiently prepare you for life at Ross School of Business.
 
-**Student visa and work authorizations**
+## Student visa and work authorizations
 
 International Center at University of Michigan provides great services regarding these issues. Through phone calls or e-mail, you will get satisfying responses within a couple of days.
 
@@ -12,13 +12,13 @@ Optional Practical Training: https://internationalcenter.umich.edu/students/f1-s
 
 Curriculum Practical Training: https://internationalcenter.umich.edu/students/f1-students/cpt
 
-**Airfare**
+## Airfare
 
 Airfare could be expensive. While there is one great American student website that could save you a lot of money.
 
 Website: https://www.studentuniverse.com/
 
-**Telecommunication Provider Set-up**
+## Telecommunication Provider Set-up
 
 AT&T is a generally accepted telecommunication provider in U.S., offering services from Internet, TV network and phone-call data. 
 
@@ -26,7 +26,7 @@ AT&T Ann Arbor Location: 3217 Washtenaw Boulevard, Ann Arbor, MI 48104
 
 Website: https://www.att.com/
 
-**Bank Account Set-up**
+## Bank Account Set-up
 
 Chase is one of the most renowned banking institutions in U.S. Here is a list of locations you can go in Ann Arbor to set up your U.S. bank account.
 
