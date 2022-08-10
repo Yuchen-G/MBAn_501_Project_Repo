@@ -1,0 +1,24 @@
+---
+title: "Housing"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+##Housing
+Looking for a place to stay in Ann Arbor could be a nightmare. That's why we created this place where admitted and graduating MBAn students can help each other in leasing and subleasing apartments/houses. 
+
+## Looking for a Place to Stay? 
+
+Many graduating MBAn students are looking to sublet their house/apartment. You can view this google sheet and find all places available that are being sublet by MBAn students. 
+
+https://docs.google.com/spreadsheets/d/1rnIzXJiHMW2wIeekq8DYZjjht0DYYWdRNPLRRKbZ4YA/edit?usp=sharing
+
+
+## Subletting your Apartment/House 
+
+If your leaving Ann Arbor for the rest of the summer and looking to sublease your House/Apartment, you can put your place's info in this sheet where future MBAn student can find it and move to it.
+
+https://docs.google.com/spreadsheets/d/1rnIzXJiHMW2wIeekq8DYZjjht0DYYWdRNPLRRKbZ4YA/edit?usp=sharing

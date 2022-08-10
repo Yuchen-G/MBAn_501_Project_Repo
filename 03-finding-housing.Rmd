@@ -1,6 +1,55 @@
 # Housing
 
 ## Finding a sublease
+<style>
+title {
+  color: #3D0C02;
+  font-family: Comic Sans MS;
+  }
+  
+body {
+  color: #3D0C02;
+  font-family: Verdana;
+  }
+
+</style>
+
+<br>
+**Facebook groups -**
+You can use these groups to find subleases to your liking. The posts usually specify the number of beds/baths, amenities, prices, pictures and contact info. Make sure to reach out to the subleaser through messenger. You can always negotiate and reduce the price as it is a buyers market in Ann Arbor.
+
+<br>
+![](Screen Shot 2022-08-03 at 3.05.44 PM.png){width="300" height="250"} 
+![](Screen Shot 2022-08-03 at 3.05.55 PM.png){width="300" height="250"}
+![](Screen Shot 2022-08-03 at 3.06.08 PM.png){width="300" height="250"} 
+
+
+- UMICH Housing, Rooms, Apartments, Sublets - (largest group with 33.4 K members)
+https://www.facebook.com/groups/223351171575348/
+- UMich Campus Housing (OFFICIAL)
+<br>
+https://www.facebook.com/groups/551056069413485/
+- Ann Arbor Roommates and Housing
+<br>
+https://www.facebook.com/groups/267575123414633/
+
+<br>
+**Pro Tips** - Have a video call with the subleaser and see the apartment for yourself if you are unable to visit, read google reviews and talk to current students to get a better idea of the apartment(location, management, maintenance) 
+
+<br>
+**Calling Apartments: **
+Another method that works would be to call the different apartments in areas you are interested in and ask them if any residents are interested in subleasing. They will connect you with subleasers or add you to their addressbook so they can reach out anytime any sublease becomes available. 
+
+You could also ask for a lease transfer though this is a more expensive option as you need to pay the entire rent for the month. Lease transfers/takeovers are more useful if you want the lease for the entire academic year. 
+
+<br>
+**WeChat - **
+UM信息平台
+<br>
+Wechat number: UMhome
+<br>
+You can use this user id from WeChat to find available sublets by accessing the moments page. 
+
 
 ## Lease Subletting Information
 
@@ -20,13 +69,50 @@ Sheet: https://docs.google.com/spreadsheets/d/1nCS9Tw-RBSAceeZNXqH_YfsoTt1rkVl-x
 
 
 ## Dorms
+Graduate Residence Options for incoming MBAn students
+
+Option 1: Munger Graduate Residence
+
+Address: 540 Thompson St, Ann Arbor, MI 48104
+
+Phone: 734-764-0145
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+Located on Central Campus, the Munger Graduate Residences are designed specifically for graduate and professional level students from all U-M schools and colleges to actively engage in a transdisciplinary community. Transdisciplinary living brings a diverse mix of graduate and professional students from various fields together to live, study and build a culture of collaboration. You’ll join other graduate students in a furnished apartment with 6 or 7 single-occupancy bedroom suites, each with a private bathroom. The suites also include a very large kitchen, dining room and community space.
+
+
+![](MUNGER1.jpg){width=256}
+
+
+![](MUNGER2.jpg){width=256}
+
+Option 2: EAST QUADRANGLE
+
+Address:701 East University Avenue, Ann Arbor, MI 48109-1245
+
+Phone: 734-764-0100
+
+E-mail: msaraino@umich.edu
+
+Price: $1100/Month -> $2000/Month
+
+Description: 
+East Quad, a mixed-gender, undergraduate residence hall, is home to approximately 850 students each year. It’s on Central Campus near the South University shopping area and many academic buildings including Ross School of Business and the School of Education.
+
+
+![](EQUA2.jpg){width=256}
+
+
+![](EQUA1.jpg){width=256}
 
 ## High-rise Apartments
 
 ### Central Campus
-
-### Apartments Near Ross
-* Foundry Lofts
+#### Foundry Lofts
 
 ![](Foundry_Lofts_inside_1.jpg){width=32%}
 ![](Foundry_Lofts_inside_2.jpg){width=32%}
@@ -46,9 +132,29 @@ If you’re looking for a lavish living experience with exclusive amenities, a p
 **Pros:**
 Near Local Restaurants & Retail in Downtown
 
+#### Saga Ann Arbor
 
-* Landmark
+![](saga interior.jpg){width=32%}
+![](saga interior 2.jpg){width=32%}
+![](saga interior 3.jpg){width=31%} 
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("saga map.jpg")
+```
 
+**Website:** 
+https://www.sagaannarbor.com/
+
+**Floor plans:**
+1-, 2-, 3-, & 4-Bedroom Apartments
+
+**Description:**
+Saga Ann Arbor provides students with more than just a place to call home. The off campus housing near University of Michigan is centrally located in Ann Arbor, just minutes from the campus and many local favorites, including restaurants, shopping outlets, and recreation. But residents don’t have to go far for fun and relaxation, as our community boasts an array of resort-style amenities that help strike the perfect work-life balance. In addition, the apartments come fully furnished and boast modern interior features. For a UMich living experience unlike any other, look no further than Saga Ann Arbor.
+
+**Pros:**
+Nearby Retail & Shopping Destinations
+
+### Apartments Near Ross
+#### Landmark
 
 ![](landmark_exterior1.png){width=32%}
 ![](landmark_interior.png){width=30%}
@@ -69,7 +175,7 @@ knitr::include_graphics("landmark_map.png")
 
 
 
-* z place 
+#### z place 
 
 ![](zplace_exterior.png){width=36%}
 ![](zplace_interior1.png){width=32%}
@@ -93,7 +199,7 @@ knitr::include_graphics("zplace_map.png")
 
 
 
-* Six11
+#### Six11
 
 ![](611_exterior.png){width=33%}
 ![](611_interior1.png){width=32%}
@@ -118,7 +224,7 @@ knitr::include_graphics("611_map.png")
 
 
 ### South Campus
-* Hoover and Greene
+#### Hoover and Greene
 
 ![](HG_exterior.png){width=32%}
 ![](HG_interior1.png){width=32%}
@@ -144,7 +250,7 @@ knitr::include_graphics("HG_map.png")
 
 
 
-* 618 South Main
+#### 618 South Main
 
 
 ![](SM_exterior.png){width=32%}
