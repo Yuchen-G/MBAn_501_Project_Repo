@@ -22,12 +22,12 @@ knitr::include_graphics("elbel.jpeg")
 
 
 
-- **The Arboretum** is a great place for those who enjoy hiking, and there are many biking and jogging trails that go through the Arb. 
+- **The Arboretum** is a great place for those who enjoy hiking, and there are many biking and jogging trails that go through the Arb. The best thing about the Arb is that it looks very different in each season as the leaves fall and change colors, so you will never get tired of walking down those trails during your free time!  
 
 ![](arb.jpeg){width=45%}
 ![](arbriver.jpeg){width=54%}
 
-- Every summer, there is an [Art Fair](https://www.theannarborartfair.com/) in July where many vendors will come and set up tents on the streets of downtown Ann Arbor and sell their artwork or other artistic items. This is a great way to learn about all the unique designs and objects people hand make. 
+- Every summer, Ann Arbor hosts an [Art Fair](https://www.theannarborartfair.com/) in July where many vendors will come and set up tents on the streets of downtown Ann Arbor and sell their artwork or other artistic items. This is a great way to learn about all the unique designs and objects people hand make and participate in a local event. 
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("artfair.png")
@@ -35,7 +35,7 @@ knitr::include_graphics("artfair.png")
 
 
 
-- During the month of July, there is also a [carnival](https://a2jaycees.org/carnival) at Pioneer High School, located just across the street from the Michigan Stadium. Even as a graduate student, booths with fair games and food, a Ferris wheel, and other amusement park rides will be hard to resist on a hot summer day!
+- During the month of July, there is also the [Jaycee's Carnival](https://a2jaycees.org/carnival) at Pioneer High School, located just across the street from the Michigan Stadium. Even as graduate students, booths with fair games and food, a Ferris wheel, and other amusement park rides will be hard to resist on a hot summer day!
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("carnival.webp")
@@ -51,7 +51,7 @@ knitr::include_graphics("carnival.webp")
 
 
 ## Shopping
-The summer is also the perfect time to purchase any winter apparel that will help you get through Michigan winters. Although the following places are located at least a 30-minute drive from Ann Arbor, it is a good idea to visit them during the summer, for example during the one-week break between the summer and fall semesters, to make sure that you are as well-prepared as possible for the colder months. 
+The summer is also the perfect time to purchase any winter apparel that will help you get through Michigan winters. Although most of the following places are located at least a 30-minute drive from Ann Arbor, it is a good idea to visit them during the summer, for example during the one-week break between the summer and fall semesters, to make sure that you are as well-prepared as possible for the colder months to come. 
 
 - [Briarwood Mall](https://www.simon.com/mall/briarwood-mall) is a 10-minute drive from Ross, and it is a great place for a quick weekend shopping trip. 
 
@@ -90,20 +90,20 @@ The summer is also the perfect time to purchase any winter apparel that will hel
 
 ## Things to Do 
 ### Movies
-Want to watch a movie during your study break? Check out the **Michigan Theater** or **State Theater**, both located on and near South State Street. If you want to go off campus or have a wider selection of films, Cinemark is also a nearby option. 
+Want to watch a movie during your study break? Check out the **Michigan Theater** or **State Theater**, both of which are located on and near South State Street. If you want to go off campus or have a wider selection of films, Cinemark is also a nearby option. 
 
 ![](michigantheater.jpeg){width=30%}
 ![](statetheater.webp){width=50%}
 
 ### Museums
-- [University of Michigan Museum Art](https://www.umma.umich.edu/) (UMMA) is located in the heart of central campus, and the tall red sculpture right outside can be easily spotted anymore on South State Street. One fun fact about this sculpture is that no matter where you stand, it spells out ART. Besides this sculpture, the UMMA frequently updates their exterior designs and displays, so even just walking past the museum is an experience in itself. One unique thing about the UMMA is that some of the art displays are located inside drawers and require you to pull out each drawer, adding an element of surprise to the experience. There is also a cafe on the first floor of the museum for grabbing a quick snack. 
+- [University of Michigan Museum of Art](https://www.umma.umich.edu/) (UMMA) is located in the heart of central campus, and the tall red sculpture right outside can be easily spotted anywhere on South State Street. One fun fact about this sculpture is that no matter where you stand, it spells out ART. Besides this sculpture, the UMMA frequently updates their exterior designs and displays, so even just walking past the museum is an experience in itself. One unique thing about the UMMA is that a few of the displays are interactive and may require you to pull out drawers to reveal the artwork inside, adding an element of surprise to the museum experience. There is also a cafe on the first floor of the museum for grabbing a quick snack. 
 
 ![](sculpture.jpeg){width=32%}
 ![](heart.jpeg){width=28%}
 ![](umma.jpeg){width=32%}
 
 
-- [University of Michigan Museum of Natural History](https://lsa.umich.edu/ummnh) (UMMNH) is located on the hill area, just a few steps from the Central Campus Transit Center (CCTC). Unlike the UMMA, the information and exhibits at UMMNH are a lot more interactive, perfect for anyone who enjoys hands-on experiences and prefers visual learning. Some of the most popular displays include the dinosaur skeleton displays, planetarium, and the multimedia Tree of Life exhibit. 
+- [University of Michigan Museum of Natural History](https://lsa.umich.edu/ummnh) (UMMNH) is located on the hill area, just a few steps from the Central Campus Transit Center (CCTC). The information and exhibits at UMMNH are a lot more interactive, perfect for anyone who enjoys hands-on experiences or prefers visual learning. Some of the most popular displays include the dinosaur skeleton displays, planetarium, and the multimedia Tree of Life exhibit. 
 
 ![](dinosaur.jpeg){width=25%}
 ![](planetarium.jpeg){width=45%}
@@ -116,7 +116,7 @@ Want to watch a movie during your study break? Check out the **Michigan Theater*
 ![](artifacts.jpeg){width=50%}
 
  
-- [Detroit Observatory](https://detroitobservatory.umich.edu/) is perfect for anyone interested in astronomy and star-gazing. It is home to the famous Fitz Refracting and Meridian Circle Telescopes. It is located right behind Couzens and next to Alice Lloyd Residential Halls on the hill area. 
+- [Detroit Observatory](https://detroitobservatory.umich.edu/) is perfect for anyone interested in astronomy and star-gazing. Located right behind Couzens and next to Alice Lloyd Residential Halls on the hill area, the Detroit Observatory is home to the famous Fitz Refracting and Meridian Circle Telescopes.
 
 ![](observatory.png){width=40%}
 ![](fitz.jpeg){width=25%}
@@ -135,7 +135,7 @@ Want to watch a movie during your study break? Check out the **Michigan Theater*
 
 
 ## Athletic Events
-A huge part of the Michigan school spirit comes from athletic events, namely football, basketball, and hockey games. You can purchase [season tickets](https://mgoblue.com/) to these three sports prior to the start of the fall semester. In the winter, Yost Ice Arena also holds open-skate hours when you and your friends can rent ice skates and take a break from studying. 
+A huge part of the Michigan school spirit comes from athletics, namely football, basketball, and hockey. You can purchase [season tickets](https://mgoblue.com/) to these three sports prior to the start of the fall semester. Most of the other sports games are free of charge. In the winter, Yost Ice Arena also holds open-skate hours when you and your friends can rent ice skates and take a break from studying. 
 
 ![](football.jpeg){width=30%}
 ![](basketball.jpeg){width=33%}
