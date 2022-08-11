@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 
 # Best Restaurants and Food
 
@@ -45,6 +40,7 @@ Totoro is a small, bright Japanese restaurant offering a wide range of classic, 
 Situated in the beautifully restored 1886 Michigan Central Depot, Gandy Dancer is both an architectural landmark and an elegant restaurant. A popular venue in Ann Arbor, the Gandy Dancer's fine cuisine and historic atmosphere make a grand setting for rehearsal dinners and wedding receptions. Come see why diners all over Michigan choose us time and time again.
 
 ![](gandydancer.jpg){width=256}
+
 ## Bars
 
 **Bill's Beer Garden**

@@ -35,6 +35,7 @@ managing-complexity
 plans-moving-forward
 best-restaurants-and-food
 restaurants
+bars
 dining
 meal-plans
 grocery-stores
