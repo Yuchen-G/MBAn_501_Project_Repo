@@ -1,4 +1,4 @@
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
+table-of-contents
 introduction
 what-we-plan-to-cover
 about-us
@@ -35,7 +35,9 @@ managing-complexity
 plans-moving-forward
 best-restaurants-and-food
 restaurants
-bars
+dining
+meal-plans
+grocery-stores
 fun-things-to-do-in-ann-arbor
 outdoor-activities
 shopping
@@ -64,4 +66,3 @@ before-parking-your-car-here-are-some-things-to-keep-in-mind
 streets-where-you-can-park-your-car-for-free-all-day
 streets-where-you-can-park-your-car-for-free-for-four-hours
 streets-where-you-can-park-your-car-with-parking-meteres
-table-of-contents
