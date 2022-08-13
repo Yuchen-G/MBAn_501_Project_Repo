@@ -1,6 +1,8 @@
 ---
 output: html_document
 ---
+
+# Study Spots
 <html>
 
 <h2 style ="color:#C04000"><b><center>Study Spots</b></center></h2>

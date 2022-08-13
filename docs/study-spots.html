@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 12 Study Spots | HW3: Group Project GitHub + Bookdown Setup</title>
+  <meta name="description" content="This is our assignment for HW3." />
+  <meta name="generator" content="bookdown 0.27 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 12 Study Spots | HW3: Group Project GitHub + Bookdown Setup" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="This is our assignment for HW3." />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 12 Study Spots | HW3: Group Project GitHub + Bookdown Setup" />
+  
+  <meta name="twitter:description" content="This is our assignment for HW3." />
+  
+
+<meta name="author" content="Coded in COBOL" />
+
+
+<meta name="date" content="2022-08-13" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="available-parking-spots-around-ross.html"/>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Book by Coded In Cobol</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Table of Contents</a></li>
+<li class="chapter" data-level="2" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>2</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="introduction.html"><a href="introduction.html#what-we-plan-to-cover"><i class="fa fa-check"></i><b>2.1</b> What We Plan to Cover</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="about-us.html"><a href="about-us.html"><i class="fa fa-check"></i><b>3</b> About Us</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="about-us.html"><a href="about-us.html#yuchen-gao"><i class="fa fa-check"></i><b>3.1</b> Yuchen Gao</a></li>
+<li class="chapter" data-level="3.2" data-path="about-us.html"><a href="about-us.html#nikita-mamidi"><i class="fa fa-check"></i><b>3.2</b> Nikita Mamidi</a></li>
+<li class="chapter" data-level="3.3" data-path="about-us.html"><a href="about-us.html#ben-newman"><i class="fa fa-check"></i><b>3.3</b> Ben Newman</a></li>
+<li class="chapter" data-level="3.4" data-path="about-us.html"><a href="about-us.html#peiyue-sun"><i class="fa fa-check"></i><b>3.4</b> Peiyue Sun</a></li>
+<li class="chapter" data-level="3.5" data-path="about-us.html"><a href="about-us.html#winnifer-chen"><i class="fa fa-check"></i><b>3.5</b> Winnifer Chen</a></li>
+<li class="chapter" data-level="3.6" data-path="about-us.html"><a href="about-us.html#jalal-mawri"><i class="fa fa-check"></i><b>3.6</b> Jalal Mawri</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="housing.html"><a href="housing.html"><i class="fa fa-check"></i><b>4</b> Housing</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="housing.html"><a href="housing.html#finding-a-sublease"><i class="fa fa-check"></i><b>4.1</b> Finding a sublease</a></li>
+<li class="chapter" data-level="4.2" data-path="housing.html"><a href="housing.html#lease-subletting-information"><i class="fa fa-check"></i><b>4.2</b> Lease Subletting Information</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="housing.html"><a href="housing.html#who-this-page-is-for"><i class="fa fa-check"></i><b>4.2.1</b> Who this page is for:</a></li>
+<li class="chapter" data-level="4.2.2" data-path="housing.html"><a href="housing.html#you-want-to-sublet-your-lease"><i class="fa fa-check"></i><b>4.2.2</b> You Want to Sublet Your Lease</a></li>
+<li class="chapter" data-level="4.2.3" data-path="housing.html"><a href="housing.html#you-need-a-place-to-stay"><i class="fa fa-check"></i><b>4.2.3</b> You Need a Place to Stay</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="housing.html"><a href="housing.html#dorms"><i class="fa fa-check"></i><b>4.3</b> Dorms</a></li>
+<li class="chapter" data-level="4.4" data-path="housing.html"><a href="housing.html#high-rise-apartments"><i class="fa fa-check"></i><b>4.4</b> High-rise Apartments</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="housing.html"><a href="housing.html#central-campus"><i class="fa fa-check"></i><b>4.4.1</b> Central Campus</a></li>
+<li class="chapter" data-level="4.4.2" data-path="housing.html"><a href="housing.html#apartments-near-ross"><i class="fa fa-check"></i><b>4.4.2</b> Apartments Near Ross</a></li>
+<li class="chapter" data-level="4.4.3" data-path="housing.html"><a href="housing.html#south-campus"><i class="fa fa-check"></i><b>4.4.3</b> South Campus</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="product-development.html"><a href="product-development.html"><i class="fa fa-check"></i><b>5</b> Product Development</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="product-development.html"><a href="product-development.html#our-group-process"><i class="fa fa-check"></i><b>5.1</b> Our Group Process</a></li>
+<li class="chapter" data-level="5.2" data-path="product-development.html"><a href="product-development.html#handling-challenges-and-changes"><i class="fa fa-check"></i><b>5.2</b> Handling Challenges and Changes</a></li>
+<li class="chapter" data-level="5.3" data-path="product-development.html"><a href="product-development.html#agile-work-practices"><i class="fa fa-check"></i><b>5.3</b> Agile Work Practices</a></li>
+<li class="chapter" data-level="5.4" data-path="product-development.html"><a href="product-development.html#managing-complexity"><i class="fa fa-check"></i><b>5.4</b> Managing Complexity</a></li>
+<li class="chapter" data-level="5.5" data-path="product-development.html"><a href="product-development.html#plans-moving-forward"><i class="fa fa-check"></i><b>5.5</b> Plans Moving Forward</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="best-restaurants-and-food.html"><a href="best-restaurants-and-food.html"><i class="fa fa-check"></i><b>6</b> Best Restaurants and Food</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="best-restaurants-and-food.html"><a href="best-restaurants-and-food.html#restaurants"><i class="fa fa-check"></i><b>6.1</b> Restaurants</a></li>
+<li class="chapter" data-level="6.2" data-path="best-restaurants-and-food.html"><a href="best-restaurants-and-food.html#bars"><i class="fa fa-check"></i><b>6.2</b> Bars</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="dining.html"><a href="dining.html"><i class="fa fa-check"></i><b>7</b> Dining</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="dining.html"><a href="dining.html#meal-plans"><i class="fa fa-check"></i><b>7.1</b> Meal Plans</a></li>
+<li class="chapter" data-level="7.2" data-path="dining.html"><a href="dining.html#grocery-stores"><i class="fa fa-check"></i><b>7.2</b> Grocery Stores</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html"><i class="fa fa-check"></i><b>8</b> Fun Things to do in Ann Arbor</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#outdoor-activities"><i class="fa fa-check"></i><b>8.1</b> Outdoor Activities</a></li>
+<li class="chapter" data-level="8.2" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#shopping"><i class="fa fa-check"></i><b>8.2</b> Shopping</a></li>
+<li class="chapter" data-level="8.3" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#downtown-ann-arbor"><i class="fa fa-check"></i><b>8.3</b> Downtown Ann Arbor</a></li>
+<li class="chapter" data-level="8.4" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#things-to-do"><i class="fa fa-check"></i><b>8.4</b> Things to Do</a>
+<ul>
+<li class="chapter" data-level="8.4.1" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#movies"><i class="fa fa-check"></i><b>8.4.1</b> Movies</a></li>
+<li class="chapter" data-level="8.4.2" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#museums"><i class="fa fa-check"></i><b>8.4.2</b> Museums</a></li>
+<li class="chapter" data-level="8.4.3" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#miscellaneous"><i class="fa fa-check"></i><b>8.4.3</b> Miscellaneous</a></li>
+</ul></li>
+<li class="chapter" data-level="8.5" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#athletic-events"><i class="fa fa-check"></i><b>8.5</b> Athletic Events</a></li>
+<li class="chapter" data-level="8.6" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#places-to-visit-outside-ann-arbor"><i class="fa fa-check"></i><b>8.6</b> Places to Visit Outside Ann Arbor</a>
+<ul>
+<li class="chapter" data-level="8.6.1" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#southeast-michigan"><i class="fa fa-check"></i><b>8.6.1</b> Southeast Michigan</a></li>
+<li class="chapter" data-level="8.6.2" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#west-michigan"><i class="fa fa-check"></i><b>8.6.2</b> West Michigan</a></li>
+<li class="chapter" data-level="8.6.3" data-path="fun-things-to-do-in-ann-arbor.html"><a href="fun-things-to-do-in-ann-arbor.html#upper-peninsula"><i class="fa fa-check"></i><b>8.6.3</b> Upper Peninsula</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="tech-tips.html"><a href="tech-tips.html"><i class="fa fa-check"></i><b>9</b> Tech Tips</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="tech-tips.html"><a href="tech-tips.html#software-preperation"><i class="fa fa-check"></i><b>9.1</b> Software Preperation</a>
+<ul>
+<li class="chapter" data-level="9.1.1" data-path="tech-tips.html"><a href="tech-tips.html#excel-preperation"><i class="fa fa-check"></i><b>9.1.1</b> Excel Preperation</a></li>
+<li class="chapter" data-level="9.1.2" data-path="tech-tips.html"><a href="tech-tips.html#git-and-github"><i class="fa fa-check"></i><b>9.1.2</b> Git and GitHub</a></li>
+<li class="chapter" data-level="9.1.3" data-path="tech-tips.html"><a href="tech-tips.html#r-rstudio"><i class="fa fa-check"></i><b>9.1.3</b> R &amp; RStudio</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="international-student-information.html"><a href="international-student-information.html"><i class="fa fa-check"></i><b>10</b> International Student Information</a>
+<ul>
+<li class="chapter" data-level="10.1" data-path="international-student-information.html"><a href="international-student-information.html#student-visa-and-work-authorizations"><i class="fa fa-check"></i><b>10.1</b> Student visa and work authorizations</a></li>
+<li class="chapter" data-level="10.2" data-path="international-student-information.html"><a href="international-student-information.html#airfare"><i class="fa fa-check"></i><b>10.2</b> Airfare</a></li>
+<li class="chapter" data-level="10.3" data-path="international-student-information.html"><a href="international-student-information.html#telecommunication-provider-set-up"><i class="fa fa-check"></i><b>10.3</b> Telecommunication Provider Set-up</a></li>
+<li class="chapter" data-level="10.4" data-path="international-student-information.html"><a href="international-student-information.html#bank-account-set-up"><i class="fa fa-check"></i><b>10.4</b> Bank Account Set-up</a></li>
+</ul></li>
+<li class="chapter" data-level="11" data-path="available-parking-spots-around-ross.html"><a href="available-parking-spots-around-ross.html"><i class="fa fa-check"></i><b>11</b> Available Parking Spots around Ross</a>
+<ul>
+<li class="chapter" data-level="11.1" data-path="available-parking-spots-around-ross.html"><a href="available-parking-spots-around-ross.html#before-parking-your-car-here-are-some-things-to-keep-in-mind"><i class="fa fa-check"></i><b>11.1</b> Before parking your car, here are some things to keep in mind:</a></li>
+<li class="chapter" data-level="11.2" data-path="available-parking-spots-around-ross.html"><a href="available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-for-free-all-day"><i class="fa fa-check"></i><b>11.2</b> Streets where You Can Park your Car for Free all day</a></li>
+<li class="chapter" data-level="11.3" data-path="available-parking-spots-around-ross.html"><a href="available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-for-free-for-four-hours"><i class="fa fa-check"></i><b>11.3</b> Streets where You Can Park your Car for Free for Four Hours</a></li>
+<li class="chapter" data-level="11.4" data-path="available-parking-spots-around-ross.html"><a href="available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-with-parking-meteres"><i class="fa fa-check"></i><b>11.4</b> Streets where You Can Park your Car with Parking Meteres</a></li>
+</ul></li>
+<li class="chapter" data-level="12" data-path="study-spots.html"><a href="study-spots.html"><i class="fa fa-check"></i><b>12</b> Study Spots</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">HW3: Group Project GitHub + Bookdown Setup</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="study-spots" class="section level1 hasAnchor" number="12">
+<h1><span class="header-section-number">Chapter 12</span> Study Spots<a href="study-spots.html#study-spots" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<html>
+<h2 style="color:#C04000">
+<b>
+<center>
+Study Spots</b>
+</center>
+</h2>
+<style>
+    body {
+       background-image: url('back.jpeg');
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: cover;
+    }
+  </style>
+</html>
+<b>
+<p style="font-family:Verdana; color:#0a2929; font-size: 16px;">
+University of Michigan is full of nice study spots where you can finish your assignments, work with your groups or prepare for your exams! Use this page to find just the right spot for you.
+</p>
+<p></b></p>
+<h3>
+<b>In Ross Business School</b>
+</h3>
+<p><img src="ross.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Ross has beautiful interiors, lots of sky lights and glass windows that bring in natural light making studying in Ross a pleasurable experience. There is also a Starbucks in the building where you can get tasty drinks and food.<br />
+Nosier areas-Winter garden, Lower Level open area, Blau Hall – Lower Level Open area
+Quieter Areas-Private Study Rooms available in Ross, Blau, Kresge (Reserve these on iMpact – make sure to check in, you get a strike if you don’t)
+</p>
+<p></b></p>
+<br>
+<h3>
+<b>Around Ross </b>
+</h3>
+<p><br>
+<img src="law.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Law Library (2 mins – right across the street)<br>If you’re a harry potter fan you’ll love this building. It’s like being in Hogwarts. It has high ceilings, stain glass windows. They have a “no-talking” policy, so if you need a very quiet spot to study this is your go to.
+</p>
+<p></b></p>
+<p><br>
+<img src="shapiro.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+UGLi - Shapiro Undergrad Library (4 mins from Ross)<br>
+Quiet Areas – 4th Floor, large tables with privacy dividers.
+More Social Areas – Basement, Floor 1, Floor 2. These floors have a variety of seating options-mobile tables and chairs, couches, whiteboards for brainstorming sessions, screens with HDMI connections and computer labs.
+</p>
+<p></b></p>
+<p><br>
+<img src="hatcher.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Hatcher Graduate Library (4 mins away)<br>Quiet areas – Floors 3, 4, 5 – Along the perimeter of these floors you can find carrels. Small nooks with a desk, chair, window. You only need a reservation for carrels in Floor 3.
+Floor 6 – This floor overlooks the Law Quad and Michigan Stadium. They have hard and soft seating (arm chairs).
+</p>
+<p></b></p>
+<p><br>
+<img src="munion.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Michigan Union (5 mins away) <br> There are a mix of quiet study lounges and louder open areas in all the five floors of the union. There are lots of restaurants in the building (Subway, Panda Express, Sweetwater) where you can get some fuel to keep you going.
+</p>
+<p></b></p>
+<p><br>
+<img src="umma2.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+UMMA (5 mins away) <br> If you like aesthetic working areas, there are 22 study spaces with leather chairs and power outlets in the first floor of UMMA (University of Michigan Museum of Art). There are always art related activities happening that you can take part in when you want a quick break.
+</p>
+<p></b></p>
+<p><br>
+<img src="fishbowl.png" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Fishbowl (In Angell Hall – 5 mins away) <br> This is a large computing center with more than 150 computers (MACs, Windows) and different types of printers. If you like working on a Desktop you’ll really enjoy this workspace. Since it’s a very popular space it can get crowded and loud.
+</p>
+<p></b></p>
+<p><br>
+<img src="weiser.png" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000 ; font-size: 14px;">
+Weiser hall (8 mins away) <br> The first floor has a lot of couches and tables where you can get comfortable and work in groups. The 8th and 9th floor are quieter areas with lots of study nooks. Weiser has Sit -to -Stand desks that allow you to adjust your workspace into a standing desk by pressing a button. The two story Community commons have a green wall with live plants that filter the air providing you with a healthier environment, the windows are quite big which fills these spaces with light.
+</p>
+<p></b></p>
+<p><br>
+<img src="Maizie.jpeg" style="width:500px;height:400;"></p>
+<b>
+<p style="font-family:Verdana; color:#000000; font-size: 14px;">
+Michigan League (9 mins away)<br>There are lot of study areas around Maizie’s Café, it can get pretty grounded. There are some very comfortable booths and chairs on the side by the windows. Lot of sunlight streams in making it a fun study spot. There are also some study tables in the basement.
+</p>
+<p></b></p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="available-parking-spots-around-ross.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/12-Study_Spots.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["A Book by Coded In Cobol.pdf", "A Book by Coded In Cobol.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
