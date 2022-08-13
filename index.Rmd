@@ -1,5 +1,5 @@
 --- 
-title: "HW3: Group Project GitHub + Bookdown Setup"
+title: "New MBAn Student's Local Guide"
 author: "Coded in COBOL"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is our assignment for HW3.
+  Explore Ann Arbor in ways you've never imagined.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
