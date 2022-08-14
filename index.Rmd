@@ -76,11 +76,12 @@ github-repo: rstudio/bookdown-demo
 
 * 10.1 Before Parking Your Car
 * 10.2 Streets to Park for Free All Day 
-* 10.3 Streets to Park for Free for 
+* 10.3 Streets to Park for Free for Four Hours
 * 10.4 Streets to Park with Meters
 
 
 **11. Study Spots**
+
 * 11.1 Inside Ross
 * 11.2 Around Ross
 
