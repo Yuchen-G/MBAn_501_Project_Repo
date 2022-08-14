@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 
 # Dining
 
@@ -12,12 +8,14 @@ output:
 The University offers several dining plans to students living in off-campus housing. Block plans or unlimited plans can be purchased.
 
 **Summer Meal Plan**
-The Summer Meal Plan begins near the end of June and concludes at the end of the Summer Term in August. If you eat at least 2 meals a day every day, then the price per meal is approximately $10.80.
+
+The Summer Meal Plan begins near the end of June and concludes at the end of the Summer Term in August. The plan's value will depend on how much you use it, so use it often to get your money's worth.
 
 ![](spsu_dining.png)
 
 **Fall/Winter Meal Plan**
-The Fall/Winter Meal Plan provides both block and unlimited plans. Cost per meal for the block plans can be calculated by dividing the price per semester by the number of meals. The best value is the 125 block plan, at $10.90/meal plus $250 dining dollars. The unlimited plan's value will depend on how much you use it, but assuming you eat 2 meals a day every day, the price per meal is approximately $11.75/meal.
+
+The Fall/Winter Meal Plan provides both block and unlimited plans. Cost per meal for the block plans can be calculated by dividing the price per semester by the number of meals. The best value is the 125 block plan, at $10.90/meal plus $250 dining dollars. The unlimited plan's value will depend on how much you use it, so use if often to get your money's worth.
 
 ![](fawi_dining.png)
 
@@ -41,4 +39,4 @@ Here are some grocery stores nearest to you:
 
 7. Kroger: 3615 Washtenaw Ave.
 
-8. Meijer: 3145 Ann Arbor-Saline Rd. 
+8. Meijer: 3145 Ann Arbor-Saline Rd.
