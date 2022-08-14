@@ -7,23 +7,40 @@ output:
 
 ## Our Group Process
 
-*A documentation of your group process - how did you use the class material to make your group more effective.*
+*A documentation of our group process: how we used the class material to make our group more effective.*
 
-We utilized our Team Charter to set up rules and norms for the whole team which made our meetings more productive. We used GitHub regularly to improve our efficiency in finishing projects on time. 
-The midpoint survey helped us highlight the areas that we need to improve on
-Setting up meetings with at least a 24 hours note. 
-Putting a title for each meeting so that everyone can prepare for the topic we’re meeting for.
-One of the Agile principles that we’re trying to apply in our work is “simplicity.” 
-Our goal is to design a website that is simple, yet provides new MBAn students with all the resources they need when arriving at Ross.  
-We established a norm where all ideas are presented on a board and we vote on them making our team work more inclusive and democratic. 
+- We utilized our Team Charter to set up rules and norms for the whole team which made our meetings more productive.
+
+- We used GitHub regularly to improve our efficiency in finishing projects on time. 
+
+- The midpoint survey helped us highlight the areas that we need to improve on.
+
+    - Setting up meetings with at least a 24 hours note. 
+
+    - Putting a title for each meeting so that everyone can prepare for the topic we’re meeting for.
+
+- One of the Agile principles that we’re trying to apply in our work is “simplicity.” 
+
+    - Our goal is to design a website that is simple, yet provides new MBAn students with all the resources they need when arriving at Ross.
+
+- We established a norm where all ideas are presented on a board and we vote on them making our team work more inclusive and democratic. 
+
+- Our group did well in setting up clear goals to achieve for each meeting. A typical Coded in COBOL meeting includes an agenda and a breakdown of bullet points for discussion. 
+
+- We often schedule work meetings 3 days ahead, giving each member plenty of time for preparation that leads to meaningful discussion.
 
 ## Handling Challenges and Changes
 
-*How did your group handle challenges and change*
+*How did our group handled challenges and changes.*
 
-We are very supportive of each other as a team. We each had some trouble setting up GitHub initially. So the members who figured out how to push/pull were able to sort out any issues the other members had. 
-We had the same website idea as some of the other teams, but instead of switching our topic, we approached the professor with our take on a Guide to Ann Arbor, and our plan to differentiate our site from the others with a particular focus on housing. Our passion for our project let us to convince him.
-How did you divide work, leverage the unique strengths of each individual in the team
+- We are very supportive of each other as a team. We each had some trouble setting up GitHub initially. So the members who figured out how to push/pull were able to sort out any issues the other members had. 
+- We had the same website idea as some of the other teams, but instead of switching our topic, we approached the professor with our take on a Guide to Ann Arbor, and our plan to differentiate our site from the others with a particular focus on housing. Our passion for our project let us to convince him.
+
+
+## Leveraging Strengths and Division of Labor
+
+*How did you divide work, leverage the unique strengths of each individual in the team*
+
 We broke the project into small pieces such as setting up GitHub pages, building books, etc. In terms of the book content, we also divided the sections of the book based on the strengths listed on our team charter. For example, Ben was experienced with google Forms and google sheet so he contributed to the sublease information form. Yuchen had previous experience with RStidio and GitHub so he was in charge of setting up GitHub and helping other members in the team with syncing with the remote repository. Other team members contributed to the project by setting up goals and timelines, and ensuring everyone in the team is working efficiently.  
 
 ## Agile Work Practices
@@ -42,7 +59,5 @@ Each of us made unique About Me websites, so everyone came in with different thi
 
 *What more could you do to become a more effective and productive team in the time left*
 
-One way to increase the effectiveness and efficiency of our team in the remaining days is to set clear objectives and goals for each meeting. This way, every member can come to each meeting with their completed parts and be ready for discussion and revision. At the end of each meeting, we should schedule subsequent meetings and make sure everyone understands what they need to have completed by the next meeting. 
-Anything else you would like to provide that pertains to your group process and effectiveness.
-Our group did well in setting up clear goals to achieve for each meeting. A typical Coded in Cobol meeting includes an agenda and a breakdown of bullet points for discussion. 
-We often schedule work meetings 3 days ahead, giving each member plenty of time for preparation that leads to meaningful discussion.
+One way to increase the effectiveness and efficiency of our team in the remaining days is to set clear objectives and goals for each meeting. This way, every member can come to each meeting with their completed parts and be ready for discussion and revision. At the end of each meeting, we should schedule subsequent meetings and make sure everyone understands what they need to have completed by the next meeting.
+
