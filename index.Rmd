@@ -18,6 +18,7 @@ github-repo: rstudio/bookdown-demo
 
 **2. Introduction**
 
+
 **3. About Us**
 
 * 3.1 Yuchen
@@ -27,12 +28,69 @@ github-repo: rstudio/bookdown-demo
 * 3.5 Winnifer
 * 3.6 Jalal
 
+
 **4. Housing**
 
 * 4.1 How to Find a Sublease
 * 4.2 Sublease Mastersheet
 * 4.3 Dorm Options
 * 4.4 Luxury Apartments
+
+
+**5. Best Restaurants and Bars**
+
+* 5.1 Restaurants
+* 5.2 Bars
+
+
+**6. Dining**
+
+* 6.1 Meal Plans
+* 6.2 Grocery Stores
+
+
+**7. Fun Things to do in Ann Arbor**
+
+* 7.1 Outdooer Activities
+* 7.2 Shopping
+* 7.3 Downtown Ann Arbor
+* 7.4 Things to Do 
+* 7.5 Athletic Events
+* 7.6 Places to Visit Outside Ann Arbor
+
+
+**8. Tech Tips**
+
+* 8.1 Software Preparation
+
+
+**9. International Student Information**
+
+* 9.1 Student Visa and Work Authorizations
+* 9.2 Airfare
+* 9.3 Telecommunication Provider Set-Up
+* 9.4 Bank Account Set-Up
+
+
+**10. Available Parking Spots Around Ross**
+
+* 10.1 Before Parking Your Car
+* 10.2 Streets to Park for Free All Day 
+* 10.3 Streets to Park for Free for 
+* 10.4 Streets to Park with Meters
+
+
+**11. Study Spots**
+* 11.1 Inside Ross
+* 11.2 Around Ross
+
+**12. Product Development**
+
+* 12.1 Our Group Process
+* 12.2 Handling Challenges and Changes 
+* 12.3 Agile Work Practices
+* 12.4 Managing Complexities
+* 12.5 Plans Moving Forward
 
 
 

@@ -49,7 +49,7 @@ We broke the project into small pieces such as setting up GitHub pages, building
 
 We adopted several agile work practices in our group to keep the development process smooth and efficient. For one, we decided to name our gatherings according to the task to be done during that session. When unexpected challenges arose and forced us to change the scope of our project, we held a “Scope Change Document Write-up” session to document the changes to be made to our website, rather than a “weekly meeting.” When we arrived at the meeting, we were all prepared to dive into the task and did not have the feeling of dread accompanied by attending routine meetings. Second, we decided to eliminate minutes kept from our team charter. This allowed the meetings to flow much more organically and reduce the formality of the meetings. Finally, we decided to project work on one big screen in our meeting rooms to eliminate distractions and develop a central focus on the task.
  
-## Managing Complexity
+## Managing Complexities
 
 *How did you manage the RMarkdown/Git/GitHub complexity and learning curve*
 
