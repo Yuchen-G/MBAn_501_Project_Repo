@@ -1,7 +1,7 @@
 ---
 output: html_document
 ---
-# Study Spots
+# Study Spots 📚
 
 <b>
 
