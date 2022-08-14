@@ -27,13 +27,7 @@ six11
 south-campus
 hoover-and-greene
 south-main
-product-development
-our-group-process
-handling-challenges-and-changes
-agile-work-practices
-managing-complexity
-plans-moving-forward
-best-restaurants-and-food
+best-restaurants-and-bars
 restaurants
 bars
 dining
@@ -68,5 +62,9 @@ streets-where-you-can-park-your-car-for-free-all-day
 streets-where-you-can-park-your-car-for-free-for-four-hours
 streets-where-you-can-park-your-car-with-parking-meteres
 study-spots
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
-best-restaurants-and-bars
+product-development
+our-group-process
+handling-challenges-and-changes
+agile-work-practices
+managing-complexity
+plans-moving-forward
