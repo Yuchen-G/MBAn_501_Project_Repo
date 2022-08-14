@@ -1,5 +1,5 @@
 
-# Best Restaurants and Food
+# Best Restaurants and Bars
 
 ## Restaurants
 
@@ -34,8 +34,10 @@ Menu is available here: https://maniosteria.com/
 My personal favorite, this combination barbecue-noodle bar offers a great combination of traditional Korean dishes and inventive culinary creations. The barbecue offers guests the chance to cook meat variety platters on personal tabletop grills. The noodle bar is always packed, but great for affordable and delicious take-out.
 
 Menus are available here:
--Noodle Bar: http://noodlebar.tomukun.com/menus/tnb_menu.pdf
--Barbecue: http://bbq.tomukun.com/menus/tkb_menu.pdf
+
+- Noodle Bar: http://noodlebar.tomukun.com/menus/tnb_menu.pdf
+- Barbecue: http://bbq.tomukun.com/menus/tkb_menu.pdf
+
 
 ![](tomukun.jpg){width=256}
 
@@ -55,6 +57,17 @@ Menu is available here: https://www.gandydancerrestaurant.com/menus/
 
 ![](gandydancer.jpg){width=256}
 
+**Vedge Cafe**
+
+Vedge Cafe serves a great variety of vegan, vegetarian and gluten-free foods which you can work in to your busy schedule. They also offer both take-out and delivery.
+
+Menu is available here: https://www.vedgecafea2.com/menu
+
+
+![](vedge.jpg){width=256}
+
+
+
 ## Bars
 
 **Bill's Beer Garden**
@@ -64,8 +77,6 @@ Bill's Beer Garden has a great selection of draft beers, is kid and pet friendly
 Menu is available here: https://www.billsbeergarden.com/drink-menu
 
 ![](bills.jpg){width=256}
-
-
 
 **The Grotto**
 
@@ -82,3 +93,11 @@ Located just one block away from Ross, the Brown Jug is a classic American bar w
 Menu is available here: https://brownjug-annarbor.com/menu/
 
 ![](brownjug.webp){width=256}
+
+**Garage Bar**
+
+Garage Bar is a relatively new bar to Ann Arbor, but they offer a great covered outdoor seating area perfect for late summer and fall. Garage Bar is located only two blocks from Ross, making it the perfect way to cap off a busy week and unwind.
+
+Menu is available here: https://brownjug-annarbor.com/menu/
+
+![](garbar.jpg){width=256}
