@@ -1,4 +1,4 @@
-# Tech Tips
+# Tech Tips 💻
 
 ## Software Preparation
 In the summer semester, you will need to use Python, Excel, RStudio, and GitHub in MBAn 550, MBAn 551, 
