@@ -31,7 +31,7 @@ output:
 
 ## Handling Challenges and Changes
 
-*How did our group handled challenges and changes.*
+*How our group handled challenges and changes.*
 
 - We are very supportive of each other as a team. We each had some trouble setting up GitHub initially. So the members who figured out how to push/pull were able to sort out any issues the other members had. 
 - We had the same website idea as some of the other teams, but instead of switching our topic, we approached the professor with our take on a Guide to Ann Arbor, and our plan to differentiate our site from the others with a particular focus on housing. Our passion for our project let us to convince him.
@@ -39,25 +39,30 @@ output:
 
 ## Leveraging Strengths and Division of Labor
 
-*How did you divide work, leverage the unique strengths of each individual in the team*
+*How we divided work and leveraged the unique strengths of each individual on the team.*
 
 We broke the project into small pieces such as setting up GitHub pages, building books, etc. In terms of the book content, we also divided the sections of the book based on the strengths listed on our team charter. For example, Ben was experienced with google Forms and google sheet so he contributed to the sublease information form. Yuchen had previous experience with RStidio and GitHub so he was in charge of setting up GitHub and helping other members in the team with syncing with the remote repository. Other team members contributed to the project by setting up goals and timelines, and ensuring everyone in the team is working efficiently.  
 
 ## Agile Work Practices
 
-*How did you adopt agile work practices*
+*How our group adopted agile work practices.*
 
 We adopted several agile work practices in our group to keep the development process smooth and efficient. For one, we decided to name our gatherings according to the task to be done during that session. When unexpected challenges arose and forced us to change the scope of our project, we held a “Scope Change Document Write-up” session to document the changes to be made to our website, rather than a “weekly meeting.” When we arrived at the meeting, we were all prepared to dive into the task and did not have the feeling of dread accompanied by attending routine meetings. Second, we decided to eliminate minutes kept from our team charter. This allowed the meetings to flow much more organically and reduce the formality of the meetings. Finally, we decided to project work on one big screen in our meeting rooms to eliminate distractions and develop a central focus on the task.
  
 ## Managing Complexities
 
-*How did you manage the RMarkdown/Git/GitHub complexity and learning curve*
+*How we managd the RMarkdown/Git/GitHub complexity and learning curve.*
 
 Each of us made unique About Me websites, so everyone came in with different things they knew how to add in RMarkdown. This allowed us to show each other what we were capable of creating and allowed us to create a more visually-pleasing website using RMarkdown. As mentioned above, using Git and GitHub was difficult, especially with all the committing, pulling, and pushing we needed to do. After many tries, everyone on the team knows how to do it by themselves now so we can keep working on our website outside of team meetings, and this greatly increases our team productivity and efficiency. 
  
 ## Plans Moving Forward
 
-*What more could you do to become a more effective and productive team in the time left*
+*What our group thought we could do better.*
 
 One way to increase the effectiveness and efficiency of our team in the remaining days is to set clear objectives and goals for each meeting. This way, every member can come to each meeting with their completed parts and be ready for discussion and revision. At the end of each meeting, we should schedule subsequent meetings and make sure everyone understands what they need to have completed by the next meeting.
 
+## Final Thoughts
+
+- Our group did well in setting up clear goals to achieve for each meeting. A typical Coded in Cobol meeting includes an agenda and a breakdown of bullet points for discussion. 
+
+- We often schedule work meetings 3 days ahead, giving each member plenty of time for preparation that leads to meaningful discussion.
