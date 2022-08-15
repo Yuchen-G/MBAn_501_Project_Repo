@@ -59,7 +59,7 @@ You can use this user id from WeChat to find available sublets by accessing the 
 ## Lease Subletting Information
 
 ### Who this page is for:
-- Current MBAn students wishing to sublet their current leases to future MBAn studets
+- Current MBAn students wishing to sublet their current leases to future MBAn students
 - Prospective and admitted MBAn students wanting to find housing for the former or latter part of their experience
 
 ### You Want to Sublet Your Lease
