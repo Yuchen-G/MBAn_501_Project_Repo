@@ -56,11 +56,11 @@ student-visa-and-work-authorizations
 airfare
 telecommunication-provider-set-up
 bank-account-set-up
-parking
+available-parking-spots-around-ross
 before-parking-your-car-here-are-some-things-to-keep-in-mind
-streets-where-you-can-park-your-car-for-free-all-day
-streets-where-you-can-park-your-car-for-free-for-four-hours
-streets-where-you-can-park-your-car-with-parking-meteres
+streets-where-you-can-park-your-car-for-free-all-day-green
+streets-where-you-can-park-your-car-for-free-for-four-hours-orange
+streets-where-you-can-park-your-car-with-parking-meteres-red
 study-spots
 in-ross-business-school
 around-ross
@@ -71,3 +71,4 @@ leveraging-strengths-and-division-of-labor
 agile-work-practices
 managing-complexities
 plans-moving-forward
+final-thoughts
