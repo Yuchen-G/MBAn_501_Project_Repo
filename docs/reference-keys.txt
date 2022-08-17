@@ -56,7 +56,7 @@ student-visa-and-work-authorizations
 airfare
 telecommunication-provider-set-up
 bank-account-set-up
-available-parking-spots-around-ross
+parking
 before-parking-your-car-here-are-some-things-to-keep-in-mind
 streets-where-you-can-park-your-car-for-free-all-day-green
 streets-where-you-can-park-your-car-for-free-for-four-hours-orange

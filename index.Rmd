@@ -1,7 +1,6 @@
 --- 
 title: "New MBAn Student's Local Guide"
 author: "Coded in COBOL"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -18,80 +17,84 @@ github-repo: rstudio/bookdown-demo
 
 **2. Introduction**
 
+* [2.1 What We Plan to Cover](https://yuchen-g.github.io/MBAn_501_Project_Repo/introduction.html#what-we-plan-to-cover)
+
 
 **3. About Us**
 
-* 3.1 Yuchen
-* 3.2 Nikita
-* 3.3 Ben
-* 3.4 Peiyue
-* 3.5 Winnifer
-* 3.6 Jalal
+* [3.1 Yuchen](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#yuchen-gao)
+* [3.2 Nikita](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#nikita-mamidi)
+* [3.3 Ben](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#ben-newman)
+* [3.4 Peiyue](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#peiyue-sun)
+* [3.5 Winnifer](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#winnifer-chen)
+* [3.6 Jalal](https://yuchen-g.github.io/MBAn_501_Project_Repo/about-us.html#jalal-mawri)
 
 
 **4. Housing**
 
-* 4.1 How to Find a Sublease
-* 4.2 Sublease Mastersheet
-* 4.3 Dorm Options
-* 4.4 Luxury Apartments
+* [4.1 How to Find a Sublease](https://yuchen-g.github.io/MBAn_501_Project_Repo/housing.html#finding-a-sublease)
+* [4.2 Sublease Mastersheet](https://yuchen-g.github.io/MBAn_501_Project_Repo/housing.html#lease-subletting-information)
+* [4.3 Dorm Options](https://yuchen-g.github.io/MBAn_501_Project_Repo/housing.html#dorms)
+* [4.4 Luxury Apartments](https://yuchen-g.github.io/MBAn_501_Project_Repo/housing.html#high-rise-apartments)
 
 
 **5. Best Restaurants and Bars**
 
-* 5.1 Restaurants
-* 5.2 Bars
+* [5.1 Restaurants](https://yuchen-g.github.io/MBAn_501_Project_Repo/best-restaurants-and-bars.html#restaurants)
+* [5.2 Bars](https://yuchen-g.github.io/MBAn_501_Project_Repo/best-restaurants-and-bars.html#bars)
 
 
 **6. Dining**
 
-* 6.1 Meal Plans
-* 6.2 Grocery Stores
+* [6.1 Meal Plans](https://yuchen-g.github.io/MBAn_501_Project_Repo/dining.html#meal-plans)
+* [6.2 Grocery Stores](https://yuchen-g.github.io/MBAn_501_Project_Repo/dining.html#grocery-stores)
 
 
 **7. Fun Things to do in Ann Arbor**
 
-* 7.1 Outdooer Activities
-* 7.2 Shopping
-* 7.3 Downtown Ann Arbor
-* 7.4 Things to Do 
-* 7.5 Athletic Events
-* 7.6 Places to Visit Outside Ann Arbor
+* [7.1 Outdoor Activities](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#outdoor-activities)
+* [7.2 Shopping](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#shopping)
+* [7.3 Downtown Ann Arbor](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#downtown-ann-arbor)
+* [7.4 Things to Do](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#things-to-do)
+* [7.5 Athletic Events](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#athletic-events)
+* [7.6 Places to Visit Outside Ann Arbor](https://yuchen-g.github.io/MBAn_501_Project_Repo/fun-things-to-do-in-ann-arbor.html#places-to-visit-outside-ann-arbor)
 
 
 **8. Tech Tips**
 
-* 8.1 Software Preparation
+* [8.1 Software Preparation](https://yuchen-g.github.io/MBAn_501_Project_Repo/tech-tips.html#software-preparation)
 
 
 **9. International Student Information**
 
-* 9.1 Student Visa and Work Authorizations
-* 9.2 Airfare
-* 9.3 Telecommunication Provider Set-Up
-* 9.4 Bank Account Set-Up
+* [9.1 Student Visa and Work Authorizations](https://yuchen-g.github.io/MBAn_501_Project_Repo/international-student-information.html#student-visa-and-work-authorizations)
+* [9.2 Airfare](https://yuchen-g.github.io/MBAn_501_Project_Repo/international-student-information.html#airfare)
+* [9.3 Telecommunication Provider Set-Up](https://yuchen-g.github.io/MBAn_501_Project_Repo/international-student-information.html#telecommunication-provider-set-up)
+* [9.4 Bank Account Set-Up](https://yuchen-g.github.io/MBAn_501_Project_Repo/international-student-information.html#bank-account-set-up)
 
 
 **10. Available Parking Spots Around Ross**
 
-* 10.1 Before Parking Your Car
-* 10.2 Streets to Park for Free All Day 
-* 10.3 Streets to Park for Free for Four Hours
-* 10.4 Streets to Park with Meters
+* [10.1 Before Parking Your Car](https://yuchen-g.github.io/MBAn_501_Project_Repo/available-parking-spots-around-ross.html#before-parking-your-car-here-are-some-things-to-keep-in-mind)
+* [10.2 Streets to Park for Free All Day](https://yuchen-g.github.io/MBAn_501_Project_Repo/available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-for-free-all-day-green)
+* [10.3 Streets to Park for Free for Four Hours](https://yuchen-g.github.io/MBAn_501_Project_Repo/available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-for-free-for-four-hours-orange)
+* [10.4 Streets to Park with Meters](https://yuchen-g.github.io/MBAn_501_Project_Repo/available-parking-spots-around-ross.html#streets-where-you-can-park-your-car-with-parking-meteres-red)
 
 
 **11. Study Spots**
 
-* 11.1 Inside Ross
-* 11.2 Around Ross
+* [11.1 Inside Ross](https://yuchen-g.github.io/MBAn_501_Project_Repo/study-spots.html#in-ross-business-school)
+* [11.2 Around Ross](https://yuchen-g.github.io/MBAn_501_Project_Repo/study-spots.html#around-ross)
 
 **12. Product Development**
 
-* 12.1 Our Group Process
-* 12.2 Handling Challenges and Changes 
-* 12.3 Agile Work Practices
-* 12.4 Managing Complexities
-* 12.5 Plans Moving Forward
+* [12.1 Our Group Process](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#our-group-process)
+* [12.2 Handling Challenges and Changes](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#handling-challenges-and-changes)
+* [12.3 Leveraging Strengths and Division of Labor](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#leveraging-strengths-and-division-of-labor)
+* [12.4 Agile Work Practices](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#agile-work-practices)
+* [12.5 Managing Complexities](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#managing-complexities)
+* [12.6 Plans Moving Forward](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#plans-moving-forward)
+* [12.7 Final Thoughts](https://yuchen-g.github.io/MBAn_501_Project_Repo/product-development.html#final-thoughts)
 
 
 
